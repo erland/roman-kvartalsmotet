@@ -1,521 +1,446 @@
-# Kapitel 9 – Segmentering
+# Kapitel 9 – Rummet utan protokoll
 
-11:04.
+Det var Eva-Lotta som först sa det ingen annan ville säga.
 
-Tre minuter kvar.
+“Vi kan inte fortsätta utan att veta vad som ska stå i protokollet.”
 
-Lina såg listan på projektorn och kände en märklig klarhet.
+Hon sa det inte högt, inte dramatiskt, inte ens med den där särskilda skärpa som ibland kunde få Lars att se ut som om han just blivit rättad av själva förvaltningslagen. Hon sa det lågt, medan Oskar från internservice fortfarande stod i dörröppningen med surfplattan i händerna och medan Lars fortfarande hade kvar den lugna chefshållning som började se mer ut som en möbel än en mänsklig position, men orden föll ändå på bordet med en tyngd som gjorde att alla andra ljud i rummet fick ändra form.
 
-Marcus Levin.
-Noor Haddad.
-Camilla Ågren.
-Jens Holm.
-Oskar Lind.
-Lina Sjöberg.
+Karin såg hur blicken gick runt.
 
-Det var inte längre en deltagarlista.
+Inte snabbt. Inte öppet. Ingen ville bli den första att se skyldig ut genom att titta på fel person för länge, och därför blev varje liten rörelse övertydlig: Miras hastiga blick mot Tomas, Jamals förvirrade vandring mellan skärmen och Lars, Helenas sänkta ögon mot ärendeomslaget, Tomas ansikte som blev ännu mer stilla när ordet protokoll passerade genom rummet. Lars själv log inte längre. Han hade inte slutat vara vänlig, men vänligheten låg nu ovanpå något hårdare, som en tunn duk över ett kantigt bord.
 
-Det var en kedja.
+“Protokollet,” sa han, “ska naturligtvis avspegla det vi faktiskt kommer fram till.”
 
-Angriparen hade byggt den av roller, förtroenden och gamla undantag. En chef som kunde fatta beslut. En AI-strateg som kunde signera rekommendationer. En verksamhetsrepresentant som kunde bekräfta manuell hantering. En lösningsarkitekt som visste vägarna genom integrationslagren. En säkerhetsarkitekt som kunde begränsa eller släppa igenom. En strategisk arkitekt som kunde få det att se sammanhängande ut.
+“Bra,” sa Eva-Lotta. “Då behöver vi veta om vi har kommit fram till att Tomas Ryd har tagit ansvar för den ersatta versionen av Bilaga 7, eller om vi har kommit fram till att det finns oklarheter kring vem som ändrat den, när den ändrades, varför hans dator hämtades och vem som beställde uttaget.”
 
-Det var nästan elegant.
+Det blev alldeles tyst.
 
-Lina hatade eleganta katastrofer.
+Jamal lyfte handen en aning, som om han ville begära ordet i ett forum som just upphört att vara ett forum och övergått till något äldre och mer primitivt.
 
-“Vi behöver sex bekräftelser?” frågade Marcus.
+“Jag vill bara säga,” började han, “att från ett lärandeperspektiv finns det ju en risk att vi fastnar i personspåret när det egentligen handlar om systemisk förmåga, och då tänker jag systemisk både i organisatorisk och teknisk mening, alltså inte system som i IT-system utan som i—”
 
-“Majoritet,” sa Oskar. “Minst fyra av sex.”
+“Människor,” sa Mira.
 
-“Kan vi använda våra konton?”
+Jamal blinkade.
 
-“De är komprometterade eller delvis begränsade.”
+“Va?”
 
-“Så nej.”
+“Det handlar om människor också,” sa hon. “Det är det som är problemet. Hade det bara varit system hade vi kunnat rita en bild och lägga in tre pilar.”
 
-“Så kanske.”
+Karin borde ha uppskattat repliken mer än hon gjorde. Den hade haft en sådan där Mira-precision som ofta kom mitt i hennes annars nästan oavbrutna resonemang, ett knäpp med fingrarna genom mötesdimman, men just nu satt Karins uppmärksamhet fast vid sin egen telefon, vid meddelandet som fortfarande lyste på skärmen.
 
-Jens höjde handen.
+**Det gjordes inte bara från hans konto. Det gjordes från hans rum.**
 
-“Jag vill föreslå att ‘kanske’ inte blir vår officiella incidentstrategi.”
+Hon hade låst skärmen, låst upp den igen och läst meningen tre gånger, som om orden skulle ändra sig om hon bara vägrade acceptera deras ordning. Hans konto kunde vara en sak. Ett konto kunde lämnas öppet, ett lösenord kunde ha sparats, någon kunde ha lånat en dator under en förment oskyldig ursäkt; myndigheten hade skrivit tre olika riktlinjer om informationssäkerhet och brutit mot samtliga innan kaffet var slut de flesta dagar. Men hans rum var något annat. Rummet var plats. Rummet var närvaro. Rummet betydde passerlogg, korridorkamera, städpersonal, någon som sett något. Rummet betydde att lögnen hade geografi.
 
-“För sent,” sa Noor.
+Hon tittade på Lars.
 
-Camilla stod bredvid dörren med telefonen i handen. Hon såg ut som någon som fått för mycket ansvar utan att först få den traditionella introduktionskursen i hur man undviker ansvar.
+Han stod vid kortändan av bordet med handen vilande på stolens rygg, en gest som brukade betyda att han ägde situationen utan att behöva sätta sig i den. Men nu såg Karin att handen höll för hårt. Knogarna hade blivit ljusare. Det var en obetydlig detalj, och just därför gick den inte att förklara bort med strategiskt ledarskap.
 
-“Vad händer om vi inte bekräftar?” frågade hon.
+“Tack, Oskar,” sa Lars. “Du kan lämna ärendet till mig.”
 
-Oskar läste från systemvyn.
+Oskar såg lättad ut.
 
-“Då kvarstår tidigare beslut.”
+“Nej,” sa Eva-Lotta.
 
-“Automatisk prioriterad frigivning?”
+Alla vände sig mot henne.
+
+Hon justerade glasögonen, långsamt och med en precision som i sig själv var en protest mot hela förmiddagens glidningar.
+
+“Han kan inte lämna ärendet till dig om ärendet anger dig som beställare.”
+
+Lars drog in luft.
+
+“Eva-Lotta, jag tror att vi behöver vara försiktiga här.”
+
+“Det är jag.”
+
+“Med hur vi formulerar oss.”
+
+“Det är därför jag säger det innan någon formulerar det fel.”
+
+Mira lutade sig bakåt, armarna i kors, men Karin såg att hennes fot slog snabbt mot golvet under bordet. Jamal såg ut som om han mentalt försökte omvandla samtalet till en workshopövning. Helena Mark stod fortfarande bredvid skärmen med ärendeomslaget tryckt mot magen, och för första gången sedan hon kommit in såg hon inte längre ut som någon som bara överlämnade handlingar. Hon såg ut som någon som förstod att handlingarna hade börjat överlämna henne.
+
+“Tomas,” sa Lars.
+
+Det var något i sättet han sa namnet på som fick Karin att reagera innan Tomas gjorde det. Inte hårt, inte hotfullt, men med en sorts insmord tyngd, som om namnet samtidigt var en fråga, en påminnelse och ett erbjudande.
+
+Tomas såg upp.
 
 “Ja.”
 
-“Vad innebär det konkret?” frågade Stefan.
+“Jag tror att det vore bra om du själv klargör vad du menade tidigare, när du sa att det var ditt beslut.”
 
-Jens pekade på sin skärm.
+Karin kände hur ilskan rörde sig i henne, inte som eld utan som kyla. Det var en gammal känsla, en sådan som kom när någon försökte få språket att bära skuld åt fel håll. Hon hade lärt sig genom åren att vara försiktig med den, eftersom människor som blev arga på formuleringar ofta framstod som mindre rimliga än människor som missbrukade dem.
 
-“Mottagande köer behandlar exportpaketet som giltigt beslutsunderlag. De lokala manuella rutinerna kan fortsätta. Frigivningslistan blir svårare att dra tillbaka, eftersom den har både systemstatus, chefsgodkännande, verksamhetsbekräftelse och AI-rekommendation bakom sig.”
+“Tomas har redan klargjort,” sa hon. “Han sa att originalet var en varning.”
 
-“Fast allt är falskt,” sa Camilla.
+“Han sa också att det var hans beslut,” sa Lars.
 
-“Ja,” sa Lina. “Men falskt med rätt metadata.”
+“Han sa det innan vi fick veta att den ersatta versionen ändrades från ditt konto.”
 
-Det var kanske den mest myndighetsnära mardröm hon kunde föreställa sig.
+“Mitt användarkonto,” sa Lars.
 
-Eva Rasks röst kom från Teams-högtalaren.
+Mira lyfte båda händerna. “Där har vi dagens första riktigt viktiga distinktion, och jag vill bara notera att när vi andra gör distinktioner brukar det kallas detaljstyrning.”
 
-“Ni måste bryta beslutsflödet eller isolera systemen som behandlar det.”
+“Det hjälper inte,” sa Lars.
 
-“Segmentering,” sa Oskar direkt.
+“Nej,” sa Mira. “Men det gör det sant.”
 
-“Vilken nivå?” frågade Peter från drift.
+Karin tittade på Tomas. Han hade inte rört sig. Han satt med händerna framför sig på bordet, fingertopparna mot varandra, blicken sänkt mot den tunna springan mellan två bordsskivor. Det var en fullständigt orimlig sak att lägga märke till, men hon gjorde det ändå: hans högra tumme strök över vänster pekfinger, om och om igen, på samma sätt som han brukade göra när han läste något han avskydde men ännu inte visste hur han skulle angripa utan att förstöra relationen till den som skrivit det.
 
-Oskar lutade sig fram.
+Hon hade en gång tyckt om just det. Inte tummen, förstås, inte gesten i sig, utan det som den betydde: att han tog text på allvar, att han gav människor chansen att ha menat något bättre än det de faktiskt skrivit. Det var en av de egenskaper hon hade beundrat hos honom innan hon började störa sig på att han gav systemet samma generositet som han gav människor.
 
-“Ärendetjänstens utgående integrationer, manuell exportkö, behörighetstjänstens äldre kompatibilitetslager, A-03 och A-17. Och projektorns nät åt helvete.”
+“Tomas,” sa hon mjukare.
 
-“Det där är inte en nivå,” sa Peter. “Det är en önskelista.”
+Han såg inte på henne.
 
-“Det är en miniminivå.”
+“Vad finns i protokollet?” frågade hon.
 
-Stefan skakade på huvudet.
+Först trodde hon att han inte skulle svara. Sedan drog han långsamt handen över ansiktet och lutade sig tillbaka.
 
-“Om vi segmenterar ärendetjänstens utgående integrationer slår vi mot alla flöden som väntar på beslut.”
+“Det beror på vilket protokoll du menar.”
 
-“Om vi inte gör det,” sa Lina, “släpper vi angriparens beslut vidare.”
+Ingen rörde sig.
 
-“Det vet vi inte.”
+Eva-Lotta slutade skriva.
 
-“Vi vet tillräckligt.”
+Lars sa: “Det finns bara ett mötesprotokoll.”
 
-Stefan slog handflatan mot bordet.
+“Nej,” sa Tomas.
 
-“Nej, Lina. Du vet tekniskt tillräckligt. Jag vet verksamhetsmässigt att ett stopp kan skapa köer, kostnader, felaktiga kvarhållanden, medborgare och företag som drabbas. Det är också verkligt.”
+Ordet var nästan ohörbart.
 
-Hon svarade inte direkt.
+Lars ögon smalnade.
 
-För han hade rätt.
+“Tomas.”
 
-Det gjorde inte hotet mindre. Bara valet smutsigare.
+“Det finns ett utkast,” sa Tomas. “Till sammanfattande minnesanteckning. Jag fick det i går.”
 
-Marcus såg mellan dem.
+Karin kände hur rummet förändrades. Inte högt, inte synligt för någon utanför glasväggarna, men hon märkte det på samma sätt som man märker att lufttrycket ändras innan ett regn: små förskjutningar, människor som slutade låtsas att de kunde sitta bekvämt, blickar som inte längre vågade mötas.
 
-“Vad är alternativet?”
+“Från vem?” frågade Eva-Lotta.
 
-“Partiell segmentering,” sa Jens. “Stoppa bara de mottagande köer som inte redan behandlat paketet. Låt annat flöde fortsätta.”
+Tomas tittade på Lars.
 
-“Kan vi veta vilka de är?”
+Lars svarade inte.
 
-“Jag kan se vissa.”
+Mira sa, mycket långsamt för att vara Mira: “Vänta. Fick du ett protokollsutkast före mötet?”
 
-“Vissa?” frågade Marcus.
+“En sammanfattande minnesanteckning,” sa Lars. “Det är inte ovanligt att förbereda struktur.”
 
-“Det är ett starkt ord i vår bransch.”
+“Struktur,” sa Mira. “Ja. Rubriker. Beslutspunkter. Åtgärder. Inte skuld.”
 
-“Jens.”
+Jamal harklade sig. “Jag tror kanske att vi behöver separera processdesign från faktiskt innehåll, för ibland kan det vara effektivt att ha en målbild för vad mötet behöver producera, inte för att låsa resultatet utan för att—”
 
-“Nej. Vi kan inte veta alla. Inte snabbt.”
+“Jamal,” sa Eva-Lotta.
 
-Camilla lyfte blicken.
+Han tystnade direkt.
 
-“Men vi vet vilka flöden som använder prioriterad frigivning manuellt?”
+Det var inte hårt sagt. Det behövdes inte. Eva-Lotta hade den sällsynta förmågan att göra ett namn till en komplett mötesordningsfråga.
 
-Alla tittade på henne.
+Karin vände sig mot Tomas igen.
 
-Hon tog ett steg närmare bordet.
+“Vad stod det?”
 
-“Vi behöver inte stoppa hela ärendetjänsten. Vi måste stoppa de verksamhetsrutiner som kan använda den falska listan. Det är inte alla flöden.”
+Tomas såg på henne då, och det som fanns i hans ansikte var inte rädsla längre, inte bara. Det var skam. Den sortens skam som inte kommer av att ha gjort fel, utan av att ha låtit någon annan bestämma att ens felaktiga roll i berättelsen är oundviklig.
 
-Stefan såg ut som om han både ville protestera och var stolt.
+“Att jag hade redogjort för bakgrunden till undantaget,” sa han. “Att jag bekräftat att den ersatta bilagan återgav min bedömning. Att gruppen noterat behovet av tydligare kvalitetssäkring men bedömt att frågan kunde hanteras inom ordinarie uppföljning.”
 
-“Vilka?”
+“Ordinarie uppföljning,” upprepade Mira. “Det är alltså graven.”
 
-Camilla började räkna på fingrarna.
+“Det stod också,” fortsatte Tomas, och nu blev rösten torrare, mer teknisk, som om han behövde kliva in i rollen som den exakta människan för att inte försvinna i den privata, “att Karin Holm framhöll vikten av att inte låta personfrågor överskugga det systematiska förbättringsarbetet.”
 
-“Terminal Nord. Terminal Syd. Kontrollstöd extern. Kanske godsflöde Öst om de fått kopian. Inte personflöden. Inte ordinarie lågprioriterade ärenden. Inte arkiverade beslut.”
+Karin hörde först inte hela meningen.
 
-Jens skrev snabbt.
+Hon hörde sitt namn. Sedan några ord som inte kunde vara hennes. Sedan hur något i rummet väntade på henne.
 
-“Det där är bättre än vår systemkarta.”
+“Vad sa du?” frågade hon.
 
-“Det är för att jag pratar med människor,” sa Camilla.
+Tomas såg ned igen.
 
-Oskar såg plågad ut.
+“Det stod att du framhöll vikten av att inte låta personfrågor överskugga det systematiska förbättringsarbetet.”
 
-“Vi kan skapa tekniska spärrar mot de köerna om vi får rätt regler.”
+Hon skrattade.
 
-“Jag kan ge reglerna,” sa Camilla.
+Det var inte meningen. Det var ett kort, torrt, nästan fult ljud som kom ur henne innan hon hann stoppa det, och under andra omständigheter hade hon kunnat skämmas över det. Men nu fanns det ingen skam kvar som passade situationen. Någon hade alltså inte bara skrivit Tomas in i sin färdiga sanning. Någon hade skrivit in henne också, på rätt plats, i rätt ton, som en användbar intern skeptiker som till slut ändå förstod vikten av balans. Det var så välgjort att hon nästan ville beundra hantverket, om det inte hade varit riktat mot hennes ryggrad.
 
-“Noor,” sa Lina. “Kan AI-analysen matcha Camillas flödeslista mot exportpaketets mottagare?”
+“Jag har aldrig sagt det där,” sa hon.
 
-Noor andades in.
+“Nej,” sa Tomas.
 
-“Ja. Lokalt.”
+“Har du dokumentet?”
 
-Oskar öppnade munnen.
+“Nej.”
 
-“Jag vet,” sa Noor. “Hasha, logga, ingen persondata, inga nya anslutningar, inget moln, inget dumt.”
+“Varför inte?”
 
-“Det sista är inte en teknisk kontroll,” sa Oskar.
+Han svalde.
 
-“Det är den äldsta kontrollen vi har.”
+“För att jag raderade det.”
 
-Klockan visade 11:05.
+Mira slog handflatan i bordet. “Men Tomas.”
 
-Två minuter.
+“Jag vet.”
 
-På projektorn blinkade listan.
+“Nej, det gör du inte, för om du visste skulle du inte sitta här och säga det i efterhand som om det är en liten ordningsfråga.”
 
-Bekräftelse krävs före 11:07.
+“Jag vet,” sa han igen, och den här gången lät det som om han hade vetat varje sekund sedan dess.
 
-Observatör skrev i Teams-chatten.
+Lars klev in innan Mira hann fortsätta.
 
-Observatör:
-Tid kvar: 120 sekunder.
+“Det Tomas beskriver är, såvitt jag förstår, ett förberedande arbetsmaterial som skickats för avstämning. Vi behöver inte göra det större än det är.”
 
-“Den hånar oss,” sa Jens.
+“Det står att jag har sagt något jag inte sagt,” sa Karin.
 
-“Det är nästan det minst oroande,” sa Lina.
+“Utkast innehåller ibland preliminära formuleringar.”
 
-Marcus gick fram till tavlan.
+“Om mina preliminära formuleringar brukar jag ändå vilja ha sagt dem först.”
 
-“Okej. Vi behöver fyra bekräftelser på motbeslutet. Vilka kan vi lita på?”
+“Det är noterat.”
+
+“Nej,” sa Eva-Lotta.
+
+Lars vände sig mot henne med en trötthet som äntligen hade börjat spricka igenom. “Vad nu?”
+
+“Det är inte noterat.”
+
+“Eva-Lotta—”
+
+“Jag för inget protokoll just nu.”
+
+Det var som om någon hade öppnat en lucka under bordet.
+
+Karin såg Lars bli helt stilla. Mira slutade röra foten. Jamal tittade på Eva-Lotta med något som liknade religiös förvåning.
+
+“Ursäkta?” sa Lars.
+
+“Jag för inget protokoll,” upprepade Eva-Lotta. “Inte över den här delen. Inte förrän vi är överens om vad mötet faktiskt är.”
+
+Lars såg på henne länge. “Du är mötets sekreterare.”
+
+“Jag är ledningsstöd,” sa hon. “Och jag dokumenterar beslut när beslut fattas i behörig ordning. Det här är inte behörig ordning. Det här är en blandning av arbetsmiljöuppföljning, kvalitetssäkringsdiskussion, internutredning och informellt ansvarsutpekande. Om du vill att jag ska protokollföra det behöver du först säga vilket av dem det är.”
+
+Karin hade aldrig hört Eva-Lotta säga så många meningar i följd. Det var inte att hon pratade mycket. Det var att hon öppnade en låst dörr och visade att det bakom den fanns ett helt arkiv av saker hon valt att inte säga, därför att det vanligtvis inte hjälpte.
+
+Lars böjde på huvudet, nästan omärkligt.
+
+“Okej,” sa han. “Då tar jag protokollet själv tills vidare.”
+
+“Det kan du,” sa Eva-Lotta.
+
+Lättnaden i hans ansikte hann inte mer än börja.
+
+“Men då blir det ett chefsminne, inte mötesprotokoll.”
+
+Mira lutade sig fram och pekade på Eva-Lotta med sin penna. “Det där. Det där ska stå på en mugg.”
+
+Jamal nickade utan att tänka. “Eller i en vägledning.”
+
+“Nej,” sa Eva-Lotta. “I en delegationsordning.”
+
+Under en sekund blev det nästan komiskt, och det var kanske det mest obehagliga av allt, hur lätt rummet fortfarande kunde falla tillbaka i den sortens intern humor som gjorde en outhärdlig situation hanterbar. Karin kände det själv, den lilla impulsen att le, och den skrämde henne. Humor var nödvändigt. Humor var också farligt. Den kunde få människor att tro att de fortfarande satt på rätt sida av katastrofen.
+
+Helena Mark harklade sig.
+
+“Jag vill bara klargöra min roll här,” sa hon. “Jag har inte upprättat något protokollsutkast.”
+
+“Det har ingen påstått,” sa Lars.
+
+“Nej, men jag vill ha det sagt.”
+
+“Varför?” frågade Karin.
+
+Helena såg på henne, och för första gången fanns där en irritation som inte bara var defensiv utan nästan uppriktig.
+
+“För att jag känner igen formuleringen.”
+
+“Vilken formulering?”
+
+“Den om att personfrågor inte ska överskugga det systematiska förbättringsarbetet.”
+
+Karin kände hur magen drog ihop sig.
+
+“Varifrån?”
+
+Helena tvekade.
+
+Lars sa: “Helena.”
+
+Det var mycket i hans röst. Inte hot, kanske, men påminnelse. Hierarki. Korridor. Lönesamtal. Framtida samverkan.
+
+Helena såg inte på honom. Hon såg på Karin.
+
+“Från avdelningschefens stabsmall,” sa hon. “Den används när man vill stänga en eskalering utan att säga att den stängs.”
+
+Tystnaden blev nu en annan sorts tystnad.
+
+Inte chock. Inte ens rädsla.
+
+Igenkänning.
+
+Det var nästan värre, tänkte Karin. Att flera i rummet omedelbart förstod exakt vad Helena menade. Att meningen inte var en olycka, inte en persons dåliga formulering, utan en del av ett språk de alla hade lärt sig, ett språk som kunde bära bort ansvar lika effektivt som ett diarienummer kunde bära bort ett dokument.
+
+Tomas sa: “Jag fick utkastet från Lars.”
+
+Lars stängde ögonen ett ögonblick.
+
+“Och jag fick en struktur från avdelningsstaben,” sa han.
+
+“Från vem?” frågade Karin.
+
+“Det är inte relevant i det här forumet.”
+
+Mira lutade sig tillbaka och skrattade till. “Det är fascinerande hur forumet alltid blir fel precis när frågan blir rätt.”
+
+Lars såg på henne. “Mira, jag förstår att du har behov av att kommentera, men—”
+
+“Jag tänker medan jag pratar, ja,” sa Mira. “Det vet vi. Alla vet det. Det har stått i minst två retrospektiver. Men just nu har jag faktiskt tänkt färdigt. Du fick ett protokollsutkast från avdelningsstaben före mötet. Tomas fick en version där han redan var formulerad som ansvarig. Karin fanns med som stöd för att inte göra personfråga av det. Och vi sitter här och låtsas att vi fortfarande arbetar med medarbetarundersökningen.”
+
+“Vi låtsas inte,” sa Lars.
+
+“Jo,” sa Karin.
+
+Hennes röst var låg, men den bar.
+
+Lars vände sig mot henne. “Karin.”
+
+“Vi låtsas. Det har vi gjort sedan första stapeln.”
+
+Hon borde ha varit räddare än hon var. Kanske kom rädslan senare, kanske hade den bara flyttat ut i fingrarna, för hon märkte att de var kalla när hon lade telefonen på bordet med skärmen uppåt. Det anonyma meddelandet syntes fortfarande där.
+
+**Det gjordes inte bara från hans konto. Det gjordes från hans rum.**
+
+“Jag fick det här,” sa hon.
+
+Lars tittade på skärmen, men sa ingenting.
+
+Eva-Lotta reste sig.
+
+Det var en liten rörelse, men efter hennes vägran att föra protokoll kändes den nästan ceremoniel. Hon gick fram till whiteboarden, tog en penna, granskade spetsen som om hon bedömde dess trovärdighet och skrev sedan högst upp:
+
+**EJ PROTOKOLL – ARBETSHYPOTESER**
+
+Mira stirrade på orden. “Du är min hjälte.”
+
+“Det här är inte en arbetsmetod jag rekommenderar,” sa Eva-Lotta.
+
+“Ändå.”
+
+Under rubriken skrev hon fyra rader.
+
+**1. Tomas dator hämtad ur C-14 07.42.**  
+**2. Ärende anger L. Ekwall som beställare.**  
+**3. Bilaga 7 ersatt version ändrad fredag 17.46 från L.Ekwall.**  
+**4. Förberett utkast pekar ut Tomas och Karin.**
+
+Hon vände sig om.
+
+“Fakta,” sa hon. “Inte tolkning.”
+
+“Det där är inte fullständigt,” sa Lars.
+
+“Bra,” sa Eva-Lotta. “Då kompletterar vi.”
+
+Karin såg honom väga sina alternativ. Han kunde avbryta mötet. Han kunde kalla in någon. Han kunde säga arbetsmiljö och få alla att känna sig lite skyldiga för att de fortsatt. Men varje väg hade nu ett problem: den skulle också se ut som flykt.
+
+Oskar från internservice höjde handen en centimeter.
+
+“Jag kanske ska gå?”
+
+“Inte än,” sa Karin och Eva-Lotta samtidigt.
+
+Oskar sänkte handen.
+
+Jamal lutade sig fram och såg på whiteboarden. “Om jag får vara lite, eh, visionär men konkret, vilket jag inser är en kombination jag inte alltid lyckas med—”
+
+Mira mumlade: “Självinsikt, vi noterar framsteg.”
+
+“—så skulle man kunna säga att vi nu har två berättelser,” fortsatte Jamal. “Den förberedda berättelsen, där Tomas ansvarar och Karin balanserar. Och den framväxande berättelsen, där dokument, loggar och formuleringar inte stämmer. Frågan är vilken berättelse organisationen kommer välja när klockan blir tolv.”
+
+Det var nästan bra sagt. Kanske var det därför ingen skämtade.
+
+Karin såg på klockan på väggen.
+
+10.58.
+
+Det var mer än en timme kvar till tolv och ändå alldeles för lite tid, eftersom organisationer kunde röra sig långsamt i allt som krävde mod men blixtsnabbt när något behövde täckas över med en neutral formulering.
+
+Tomas lutade sig mot henne utan att någon annan märkte det. Inte mycket. Bara tillräckligt för att hans röst skulle nå henne utan att bli rummets egendom.
+
+“Du måste sluta nu,” sa han.
+
+Hon såg inte på honom.
+
+“Varför?”
+
+“För att de har dig också.”
+
+Det var inget nytt. Hon visste det. Ändå blev orden annorlunda när han sa dem, kanske för att han fortfarande lät mer rädd för henne än för sig själv.
+
+“De har inte mig,” sa hon.
+
+“De har ditt namn i ett utkast.”
+
+“Det är inte samma sak.”
+
+“Det räcker ibland.”
+
+Hon vände sig mot honom då. Hans ansikte var nära nog för att hon skulle se den lilla skakningen vid käken, den han brukade få när han höll tillbaka mer än en invändning. Hon ville säga att han inte fick göra så här, inte igen, inte göra sig mindre för att skydda henne, inte tala till henne som om hon fortfarande var någon han hade rätt att offra sanningen för. Men det fanns människor i rummet och glasväggar runt dem och ett utkast någonstans där hennes namn redan hade lagts i munnen på henne.
+
+“Jag vet,” sa hon i stället.
+
+Han såg på henne, och för ett ögonblick fanns den där gamla fördröjningen mellan dem, den där lilla platsen där något kunde ha sagts om de hade varit andra människor eller bara lite mindre skickliga på att låta arbete ersätta allt.
+
+Sedan knackade det på glaset.
+
+Alla vände sig om.
+
+Utanför stod avdelningschefen.
+
+Karin hade sett henne på större möten, alltid med samma släta kontroll, samma dämpade färger, samma blick som gjorde att människor började sammanfatta innan de ens blivit ombedda. **Marianne Vester**. Avdelningschef för Digital utveckling och verksamhetsstöd. Den frånvarande makten hade alltså tröttnat på att vara frånvarande.
+
+Lars rätade på sig.
+
+Marianne öppnade dörren utan att vänta på inbjudan.
+
+“Jag hör att ni har fastnat i en dokumentfråga,” sa hon.
 
 Ingen svarade.
 
-Det var en absurd fråga i ett rum där alla konton blivit misstänkta.
-
-“Fel fråga,” sa Lina. “Vilka människor kan vi lita på?”
-
-Marcus såg på henne.
-
-Där fanns skillnaden.
-
-Systemet hade tappat identitetens koppling till människan. De behövde skapa en ny, tillfällig, ful men fungerande verifiering.
-
-“Analogt,” sa hon.
-
-Jens lyste upp.
-
-“Papper?”
-
-“Inte papper. Röst. Blick. Fysisk närvaro. Eva på länk verifierar.”
-
-Oskar skakade på huvudet.
-
-“Det räcker inte för systemet.”
-
-“Nej. Men det räcker för oss att veta vem som faktiskt gör vad. Sedan använder vi de minst komprometterade tekniska vägarna.”
-
-Peter från drift sa:
-
-“Jag kan lägga in segmenteringsregler om Eva godkänner och Marcus bekräftar.”
-
-Eva svarade direkt:
-
-“Jag godkänner om Marcus fattar beslutet och ni dokumenterar verksamhetskonsekvens.”
-
-Stefan höjde handen.
-
-“Jag skriver konsekvensen.”
-
-“Nu?” sa Jens.
-
-“Ja.”
-
-“Jag har aldrig sett dig se så levande ut.”
-
-Stefan ignorerade honom och började skriva på Marcus dator, eftersom hans egen hade nätproblem och han vägrade säga det högt.
-
-“Formulera kort,” sa Lina.
-
-Stefan läste medan han skrev.
-
-“Tillfällig begränsning av manuell prioriterad frigivning i identifierade flöden för att förhindra behandling av potentiellt manipulerat beslutsunderlag. Ordinarie opåverkade flöden fortsätter. Verksamhetspåverkan accepteras för berörda flöden tills spårbarhet återställts.”
-
-Jens blinkade.
-
-“Det där var faktiskt begripligt.”
-
-“Jag har alltid kunnat skriva,” sa Stefan. “Jag väljer bara att inte slösa det på er.”
-
-Camilla lutade sig fram.
-
-“Lägg till att lokala enheter ska invänta muntlig bekräftelse från utsedd chef innan de använder nya listor.”
-
-Stefan skrev.
-
-Noor matade in Camillas flöden i analysen.
-
-“Matchning klar. Fyra mottagande köer. Två har behandlat paketet, två väntar.”
-
-“Stoppa de två som väntar,” sa Lina.
-
-Oskar sa:
-
-“Det räcker inte. De två som behandlat kan redan ha skickat vidare.”
-
-“Segmentera utgående från dem också,” sa Jens.
-
-Peter suckade i Teams.
-
-“Ni förstår att det här kommer märkas?”
-
-“Ja,” sa Marcus.
-
-Alla tittade på honom.
-
-Han såg inte säker ut. Men han såg närvarande ut.
-
-“Gör det,” sa han.
-
-Eva Rask sa:
-
-“Bekräfta beslut.”
-
-Marcus gick till mitten av rummet.
-
-“Jag, Marcus Levin, bekräftar tillfällig segmentering av identifierade manuella frigivningsflöden.”
-
-Oskar knappade.
-
-“En.”
-
-Noor reste sig.
-
-“Jag, Noor Haddad, återkallar AI-rekommendationen och bekräftar att exportpaketet inte är giltigt beslutsunderlag.”
-
-“Två,” sa Oskar.
-
-Camilla tog ett steg fram.
-
-“Jag, Camilla Ågren, bekräftar att verksamheten inte ska använda prioriterade frigivningslistor utan muntlig verifiering.”
-
-“Tre.”
-
-Alla tittade på Lina.
-
-Hon kände plötsligt hur mycket hon inte ville göra det.
-
-Inte för att hon var osäker på beslutet.
-
-För att hon visste att angriparen hade byggt spelet så här. Att de svarade på en struktur någon annan skapat. Att även motståndet skedde i angriparens ram.
-
-Men klockan visade 11:06.
-
-Det fanns ingen ren väg.
-
-“Jag, Lina Sjöberg, bekräftar att arkitekturbedömningen är att gamla integrationsvägar och tillfälliga behörigheter inte kan betraktas som tillförlitliga tills de isolerats.”
-
-Oskar tryckte Enter.
-
-“Fyra.”
-
-På projektorn blinkade listan.
-
-Marcus Levin – bekräftad.
-Noor Haddad – bekräftad.
-Camilla Ågren – bekräftad.
-Lina Sjöberg – bekräftad.
-
-Under dem stod Jens och Oskar kvar obekräftade.
-
-Motstridigt beslut registrerat.
-
-Lina hann känna lättnad.
-
-Sedan ändrades texten.
-
-Majoritetsbekräftelse otillräcklig vid säkerhetsklassad processpåverkan.
-
-Full rollkedja krävs.
-
-Jens stirrade.
-
-“Det där stod inte förut.”
-
-Oskar läste systemregeln.
-
-“Den ändrades.”
-
-“När?”
-
-“Nu.”
-
-Observatör skrev i chatten.
-
-Observatör:
-Fullständig styrning kräver fullständig ansvarskedja.
-
-Eva Rask sa:
-
-“Det där är inte systemtext.”
-
-“Nej,” sa Lina.
-
-Det var en röst.
-
-Inte tekniskt. Inte bokstavligt.
-
-Men mönstret hade blivit för tydligt.
-
-Någon kommunicerade genom processerna.
-
-Jens tog ett steg fram.
-
-“Jag bekräftar teknisk mottagarkedja och köstopp.”
-
-“Fem,” sa Oskar automatiskt.
-
-Alla tittade på honom.
-
-Han var sist.
-
-Säkerhet.
-
-Oskar såg på skärmen.
-
-Lina såg något mycket mänskligt passera över hans ansikte. Rädsla, men inte för sig själv. För att göra fel. För att bli den punkt där allt antingen stoppades eller låstes fast.
-
-“Oskar,” sa hon.
-
-“Om jag bekräftar via mitt konto och det är kapat kan jag ge angriparen säkerhetsmandat.”
-
-“Om du inte bekräftar går beslutet inte igenom.”
-
-“Jag vet.”
-
-“Kan Eva bekräfta åt dig?” frågade Marcus.
-
-Eva svarade:
-
-“Systemet kräver lokal rollkedja.”
-
-Oskar stod stilla.
-
-Klockan visade 11:06:41.
-
-Lina gick fram till honom.
-
-“Du brukar säga obehagliga saker utan filter.”
-
-“Ja.”
-
-“Säg en nu.”
-
-Han såg på henne.
-
-“Vi borde ha stängt ner mer tidigare.”
-
-“Jag vet.”
-
-“Vi borde inte ha låtit organisationen bygga säkerhet på dokumenterade förhoppningar.”
-
-“Jag vet.”
-
-“Det här kommer inte stoppa allt.”
-
-“Nej.”
-
-Han andades in.
-
-“Men det stoppar nästa led.”
-
-“Ja.”
-
-Oskar nickade en gång.
-
-Sedan skrev han.
-
-“Jag, Oskar Lind, bekräftar teknisk säkerhetsbegränsning av identifierade flöden och spärrar fortsatt automatisk behandling.”
-
-Enter.
-
-Projektorn blinkade.
-
-Full rollkedja bekräftad.
-
-Motbeslut registrerat.
-
-Peter från drift svor i högtalaren.
-
-“Regler går in nu.”
-
-På Noors skärm blev två mottagande köer röda. Sedan två till orange.
-
-Jens lutade sig fram.
-
-“Vi stoppade de väntande.”
-
-“Och de behandlade?” frågade Camilla.
-
-“Utgående segmentering aktiv. Vidarebefordran stoppad.”
-
-Marcus satte handen mot bordet.
-
-För en sekund såg han ut som om han skulle falla.
-
-Lina kände lättnaden slå igenom rummet, men hon litade inte på den.
-
-Inte än.
-
-Observatör skrev inte.
-
-Projektorn visade fortfarande bekräftelsen.
-
-Sedan försvann allt.
-
-Skärmen blev svart.
-
-En ny rad dök upp.
-
-Segmentering registrerad.
-
-Alternativ väg aktiveras.
-
-Oskar blev vit.
-
-“Vad betyder alternativ väg?” frågade Marcus.
-
-Jens svarade innan Oskar hann.
-
-“Att det fanns en annan väg.”
-
-Noor såg på AI-grafen.
-
-En ny röd linje ritades upp.
-
-Inte till ärendetjänsten.
-
-Inte till manuell kö.
-
-Till identitetstjänsten.
-
-Lina läste nodnamnet.
-
-central_federation_prod
-
-Oskar viskade:
-
-“Nej.”
-
-På Teams-skärmen kom Eva Rasks röst, plötsligt skarp:
-
-“Bryt federation. Nu.”
-
-Stefan sa:
-
-“Om vi bryter federation stänger vi ute halva myndigheten.”
-
-Lina såg på klockan.
-
-11:07.
-
-På projektorn dök nästa meddelande upp.
-
-Extern inloggning: marcus.levin
-Plats: okänd
-Behörighet: global administratör
+Hon såg på whiteboarden, på Eva-Lottas rubrik, på Oskar i dörröppningen, på Tomas, på Karin och till sist på Lars. Hennes ansikte förändrades inte, men Karin tyckte sig ändå se hur hon flyttade om rummet i huvudet, hur hon placerade människor i roller och problem i mappar.
+
+“Bra,” sa Marianne. “Då löser vi det innan det blir större än det behöver vara.”
+
+Hon gick fram till bordet, lade sin telefon bredvid Karins och sa med ett leende som inte hade någon värme alls:
+
+“Jag har med mig den version som ska användas.”
+
+---
+
+## Kapitelnotering
+
+- Viktiga händelser:
+  - Eva-Lotta vägrar föra protokoll över den oklara och informella ansvarsdiskussionen.
+  - Tomas avslöjar att han fått ett färdigt utkast till sammanfattande minnesanteckning före mötet.
+  - Utkastet pekar ut Tomas som ansvarig och använder Karin som stöd för att tona ned personfrågan.
+  - Helena känner igen formuleringen från avdelningschefens stabsmall.
+  - Eva-Lotta skriver upp fakta på whiteboarden under rubriken “EJ PROTOKOLL – ARBETSHYPOTESER”.
+  - Avdelningschefen Marianne Vester kommer in och säger att hon har med sig “den version som ska användas”.
+- Nya kontinuitetspunkter:
+  - Marianne Vester är avdelningschef för Digital utveckling och verksamhetsstöd.
+  - Det finns ett förberett protokolls-/minnesanteckningsutkast där både Tomas och Karin är inplacerade i en färdig berättelse.
+  - Formuleringen om att personfrågor inte ska överskugga systematiskt förbättringsarbete kommer från avdelningschefens stabsmall.
+  - Eva-Lotta markerar att chefsminne inte är samma sak som mötesprotokoll.
+- Relationsförändringar:
+  - Eva-Lotta tar en tydligare aktiv roll och blir en konkret motkraft mot Lars kontroll.
+  - Mira stödjer Karin och Eva-Lotta mer öppet.
+  - Tomas försöker fortfarande skydda Karin genom att uppmana henne att sluta.
+  - Karin fortsätter välja öppen konflikt trots att hennes namn nu är indraget.
+- Öppna frågor:
+  - Vad innehåller Marianne Vesters version?
+  - Vem har skrivit det förberedda utkastet?
+  - Var finns dokumentet Tomas raderade?
+  - Vem skickar de anonyma meddelandena?
+  - Kommer Lars följa Marianne eller försöka rädda sig själv?

@@ -1,613 +1,703 @@
-# Kapitel 10 – Teknikskuld
+# Kapitel 10 – Framtidspunkten
 
-“Bryt federation,” sa Eva Rask igen.
+Marianne Vester hade inte tagit med sig papper.
 
-Hennes röst sprack inte. Den blev bara tunnare, vassare. Som om varje ord hade slipats fram av någon som visste exakt hur dåligt det kunde bli.
+Det borde Karin ha förstått redan när avdelningschefen kom in. Marianne var inte en person som bar pärmar, inte ens tunna sådana med flikar och genomskinliga fickor, och hon var definitivt inte en person som lade ett fysiskt dokument på bordet och lät andra luta sig över det med pennor, invändningar och egna läsglasögon. Hon bar information på ett annat sätt. I telefonen. I blicken. I den där fullständiga vissheten om att den version hon beskrev redan hade hunnit bli mer verklig än allt som faktiskt hänt.
 
-På projektorn stod raden kvar:
+“Den version som ska användas,” upprepade Eva-Lotta.
 
-Extern inloggning: marcus.levin  
-Plats: okänd  
-Behörighet: global administratör
+Det var inte en fråga. Det var en uppteckning i mänsklig form.
 
-Marcus stirrade på sitt eget namn.
+Marianne log mot henne med samma temperatur som lysrören i taket.
 
-Det fanns något nästan oanständigt i det. En människa som såg sin identitet användas för något han själv inte förstod, men ändå kunde bli ansvarig för. Lina såg hur han försökte hitta chefens hållning igen, men kroppen svek honom. Händerna låg platt mot bordet. Fingrarna var vita.
+“Den version som avdelningen behöver för att kunna gå vidare utan att belasta verksamheten med onödig osäkerhet.”
 
-“Jag har inte global admin,” sa han.
+“Det är nio ord för mycket,” sa Eva-Lotta. “Version räcker.”
 
-“Du har det nu,” sa Oskar.
+Jamal gjorde ett litet ljud, kanske en hostning, kanske ett försök att kväva skratt innan det hann bli arbetsrättsligt relevant. Mira såg ner i bordet, men Karin såg hur hennes axlar rörde sig en millimeter. Tomas rörde sig inte alls.
 
-“Det ska vara omöjligt.”
+Lars hade fått tillbaka något av sin hållning nu när Marianne stod i rummet. Det var som om hans kropp, efter en förmiddag av små och stora nederlag, äntligen fått syn på den makt den var byggd för att följa. Han gick inte hela vägen tillbaka till sitt välvilliga mötesleende, men han tog ett halvt steg närmare bordets kortända och lät handen vila på stolen igen.
 
-Oskar svarade inte.
+“Marianne,” sa han. “Vi är mitt i att reda ut några oklarheter kring underlaget.”
 
-De hade sagt det för många gånger.
+“Jag hör det,” sa Marianne.
 
-Jens vände skärmen mot Lina.
+Hon såg inte på honom när hon svarade. Hon såg på Karin.
 
-“Det gick via central federation. Men inte direkt.”
+Karin hade varit med om sådana blickar förut. Inte från Marianne specifikt, men från personer som hade arbetat så länge i ledningsnära miljöer att de lärt sig läsa rum på samma sätt som andra läste budgettabeller. De såg inte individer först, utan risker. En person som pratade för mycket var en kommunikationsrisk. En person som visste för mycket var en informationsrisk. En person som inte accepterade den föreslagna ordningen var en processrisk. Karin kände i samma ögonblick som Marianne placerade henne att hon just hade gått från medarbetare till avvikelse.
 
-“Visa.”
+“Det är bra att ni tar kvalitet på allvar,” fortsatte Marianne. “Men vi behöver också skilja på saklig kvalitetssäkring och sådan otydlighet som uppstår när man försöker lösa flera frågor samtidigt i samma rum.”
 
-Han drog upp en karta, inte den snygga sorten från PowerPoint utan en ful, levande teknisk vy där noderna såg ut som något någon byggt under tidspress och sedan vägrat titta på i dagsljus.
+Mira lyfte handen, fast de inte längre hade något möte där man behövde göra det.
 
-A-03.
-A-17.
-Kompatibilitetslager.
-Behörighetstjänst.
-Manuell kö.
-central_federation_prod.
+“Fast det är ju lite det som är poängen, eller hur? Att flera frågor faktiskt verkar vara samma fråga. Bilagan, Tomas dator, fredagsbeslutet, protokollsutkastet, Karins namn i en formulering hon inte sagt—”
 
-Och mellan dem: linjer.
+“Mira,” sa Lars.
 
-För många linjer.
+“Nej, jag tänker bara klart högt, vilket jag vet kan upplevas som både en styrka och en arbetsmiljöbelastning, men om vi ska prata om otydlighet så behöver vi kanske börja med att inte kalla samband för otydlighet bara för att sambanden är obekväma.”
 
-Lina kände igen känslan. Det var samma som att öppna en garderob man vet är full och ändå bli förolämpad när allt rasar ut.
+Marianne lät henne tala färdigt. Det var på något sätt värre än om hon hade avbrutit.
 
-“Varför finns A-03 kopplad till central federation?” frågade hon.
+“Tack,” sa hon. “Det där är en viktig synpunkt. Och exakt därför behöver vi komma tillbaka till mötets syfte.”
 
-Jens drog handen över ansiktet.
+Karin kände hur något i rummet vek sig. Inte mycket. Inte synligt för den som inte redan hade suttit i alldeles för många möten där verkligheten först hade kallats synpunkt, sedan perspektiv och till sist parkerad fråga. Men hon kände det. Den lilla rörelsen bort från det konkreta, bort från ärendenummer och signaturer och skåploggar, mot en plats där allt kunde bli en lärdom och ingenting behövde bli ett ansvar.
 
-“Det gör den inte.”
+“Vad är mötets syfte just nu?” frågade Karin.
 
-Oskar pekade på skärmen.
+Marianne log lite bredare. Inte varmt. Bara bredare.
 
-“Jo.”
+“Att IT-strategienheten ska få en gemensam bild av nuläge och förflyttning.”
 
-“Den ska inte göra det.”
+“Nej,” sa Karin. “Det var syftet när vi började. Just nu är syftet att ta reda på varför ett förberett dokument pekar ut Tomas som ansvarig för något som verkar ha ändrats från Lars konto, kanske från Lars rum, och varför mitt namn används i ett utkast jag aldrig sett.”
 
-“Vi är tillbaka där.”
+Lars gjorde en rörelse.
 
-Jens slöt ögonen en sekund.
+“Det där är en tolkning.”
 
-“Okej. Det finns en indirekt väg.”
+“Det är en sammanfattning,” sa Eva-Lotta.
 
-“Hur indirekt?”
+“En ganska effektiv sådan,” sa Jamal, och ångrade sig omedelbart när Lars vände huvudet mot honom.
 
-“Så indirekt att den borde skämmas.”
+Marianne såg på Jamal. Det fanns ingen irritation i blicken, men han krympte ändå på ett sätt som fick Karin att tycka synd om honom, vilket var orättvist eftersom hon just nu behövde honom mer som kollega än som mänsklig akvarell.
 
-“No,” sa Noor från sin plats, på engelska av ren stress. “Please tell me this is not another temporary exception.”
+“Jamal,” sa Marianne. “Du hade väl nästa punkt?”
 
-Jens sa ingenting.
+Han blinkade.
 
-Lina såg på honom.
+“Ja. Alltså. Framtidspunkten.”
 
-“Jens.”
+“AI-demonstrationen,” sa Lars snabbt, som om ordet AI var ett fönster någon kunde öppna för att släppa ut den dåliga luften.
 
-Han lutade sig bakåt.
+Jamal tittade på Karin, sedan på Tomas, sedan på skärmen. “Vi kanske inte behöver—”
 
-“Det började som ett migreringsstöd.”
+“Jag tror det kan vara bra,” sa Marianne. “Inte som avledning, utan som illustration. Vi talar mycket om manuella tolkningar, versioner och upplevelser. Jamal kan visa hur nya arbetssätt hjälper oss att sammanställa, strukturera och minska personberoende.”
 
-Stefan stönade.
+Mira lutade sig tillbaka. “Det var nästan imponerande hur du hann säga att det inte var en avledning innan du avledde.”
 
-“Nej.”
+Marianne lät henne inte få någon belöning i form av reaktion.
 
-“Jo.”
+“Om gruppen är överens,” sa hon.
 
-“Vilken migrering?” frågade Marcus.
+Ingen sa ja.
 
-“Identitetsmoderniseringen.”
+Ingen sa nej heller, och i en organisation där ingen sa nej hade ja en olycklig tendens att uppstå av sig självt.
 
-Det blev tyst på ett särskilt sätt.
+Karin såg på Tomas. Han hade blicken fäst vid bordsskivan, men hon kunde se att han lyssnade med hela kroppen, på det där sättet han alltid hade gjort när någon använde ett felaktigt ord i en viktig mening. Förr hade hon retat honom för det. Han kunde sitta alldeles tyst och ändå utstråla grammatisk invändning. Nu fanns det inget komiskt i det. Nu såg det ut som smärta.
 
-Identitetsmoderniseringen hade varit ett av Atlantis stora program. Fyra år, tre programledare, två omstarter och en slutrapport som påstod att projektet levererat “väsentliga förflyttningar mot målbild” vilket i praktiken betydde att ingen längre orkade fråga vad som inte var klart.
+“Vilket material skulle demonstrationen använda?” frågade Karin.
 
-Lina hade varit remissinstans på tredje versionen av målarkitekturen.
+Jamal svalde.
 
-Hon hade skrivit: beroenden till äldre integrationslager måste brytas innan federation införs brett.
+“Egentligen ett testmaterial. Anonymiserade mötesanteckningar. Några öppna styrdokument. Inget känsligt.”
 
-Svaret hade varit: hanteras i senare fas.
+“Egentligen?” sa Eva-Lotta.
 
-Senare fas var myndighetens eleganta namn på aldrig.
+Jamal såg olycklig ut. “Jag säger egentligen för att det är en demo och demos är, rent ontologiskt, små lögner som vill bli sanning.”
 
-“Det skulle vara avvecklat innan federation blev produktionskritisk,” sa hon.
+“Det där är det mest konkreta du sagt i dag,” sa Mira.
 
-Jens nickade.
+“Jag menar att det inte är produktionssatt.”
 
-“Ja.”
+Marianne nickade. “Desto bättre. Då finns ingen risk för att vi drar för stora slutsatser.”
 
-“Varför blev det inte det?”
+Det var den sortens mening som borde ha varit lugnande men som i stället fick Karin att känna hur huden stramade över knogarna. Ingen risk för att dra för stora slutsatser betydde i praktiken: om det visar något användbart kommer vi kalla det intressant, om det visar något farligt kommer vi kalla det irrelevant.
 
-“För att vissa verksamhetsflöden fortfarande behövde äldre attributformat.”
+Jamal reste sig långsamt, som om han blivit ombedd att demonstrera inte ett verktyg utan sin egen framtida anställningsbarhet. Han gick fram till skärmen och rörde vid tangentbordet som fortfarande låg bredvid Lars dator. Skärmen vaknade, visade den blå bakgrunden, mötesagendan och den punkt som stod näst efter kvalitetssäkring.
 
-“Vilka?”
+**10.45–11.15 Framtidens möjligheter: AI-stöd i strategiskt arbete**
 
-Han klickade.
+Klockan var 11.06.
 
-Listan kom upp.
+Karin tänkte att framtiden redan var försenad.
 
-Terminal Nord.
-Terminal Syd.
-Kontrollstöd extern.
-Tillståndsflöde särskild hantering.
-Arkivkoppling äldre ärenden.
+“Jag hade tänkt visa tre saker,” sa Jamal. “Först en enkel sammanfattning av mötesanteckningar, sedan ett stöd för att extrahera beslutspunkter, och till sist en slags, ja, semantisk spårning mellan dokumentversioner, där man kan se hur formuleringar förändras över tid.”
 
-Camilla såg på skärmen.
+Marianne vred huvudet en aning.
 
-“Det är samma flöden.”
+“Semantisk spårning?”
 
-“Ja,” sa Jens.
+“Ja, alltså inte juridiskt giltig spårning. Mer en analys av språkliga förändringar. Man kan se när en text går från att vara avrådande till villkorat accepterande, till exempel.”
 
-“Så den gamla manuella hanteringen och identitetsundantaget hänger ihop?”
+Det blev tyst på ett nytt sätt.
 
-“Ja.”
+Karin såg att Jamal hörde sig själv för sent.
 
-“Varför visste ingen det?”
+“Det var bara ett exempel,” sa han.
 
-Jens log utan glädje.
+“Ett väldigt intressant exempel,” sa Mira.
 
-“För att alla visste sin del.”
+Lars steg fram. “Jamal, jag tror att det räcker med sammanfattningsfunktionen i dag.”
 
-Lina kände hur meningen träffade rummet hårdare än någon teknisk detalj.
+“Nej,” sa Karin.
 
-Alla visste sin del.
+Hon sa det innan hon hunnit bestämma sig för att göra det, men när ordet väl låg där kände hon att det var rätt. Hon hade varit rädd för att varje invändning skulle göra henne mindre trovärdig, mindre saklig, mer exakt den Karin som Marianne redan tycktes ha definierat. Men det fanns en punkt där tyst försiktighet inte längre skyddade trovärdigheten, utan bara lånade ut den till någon annan.
 
-Det var Atlantis i fyra ord.
+“Vi ska se den tredje funktionen,” sa hon.
 
-Marcus tryckte handen mot munnen.
+Marianne såg på henne. “Det här är inte ett granskningsmöte.”
 
-“Kan vi bryta federation utan att stänga ute hela myndigheten?”
+“Nej,” sa Karin. “Det är tydligen det som är problemet.”
 
-Oskar svarade:
+Tomas drog in luft, mycket tyst. Karin hörde det ändå.
 
-“Nej.”
+Jamal stod kvar vid skärmen. “Jag vill bara understryka att verktyget inte är avsett för bevisvärdering.”
 
-Peter från drift, fortfarande kvar i Teams, sa:
+“Bra,” sa Eva-Lotta. “Då kan vi protokollföra det som demonstration, inte bevis.”
 
-“Tekniskt kan vi bryta federation för specifika beroenden.”
+“Vi protokollför ingenting just nu,” sa Lars.
 
-Oskar vände sig mot skärmen.
+“Jag antecknar privat,” sa Eva-Lotta. “Det är inte samma sak, vilket jag redan har förklarat.”
 
-“Inte om global admin redan är aktiv.”
+Marianne lade sin telefon med skärmen nedåt. Det såg ut som en liten ceremoni.
 
-“Vi kan begränsa tokenutgivning.”
+“Visa sammanfattningen,” sa hon till Jamal. “Kort.”
 
-“Hur snabbt?”
+Det var en order, men den var formulerad som effektivitet.
 
-Peter tvekade.
+Jamal nickade och öppnade programmet. På skärmen syntes ett enkelt gränssnitt med myndighetens logotyp i hörnet, en textyta, några knappar och en rubrik han uppenbarligen själv hade valt.
 
-“Med rätt godkännande—”
+**Prototyp: Strategiskt textstöd – ej produktionsmiljö**
 
-Eva Rask avbröt.
+Under rubriken fanns tre flikar:
 
-“Godkänt.”
+**Sammanfatta**  
+**Beslutspunkter**  
+**Versionsrörelse**
 
-“Från verksamhet—”
+Versionsrörelse. Karin såg ordet som om det vore en dörr som någon glömt låsa.
 
-“Godkänt.”
+“Vi börjar med sammanfattning,” sa Jamal snabbt. “Jag har lagt in ett ofarligt exempel.”
 
-“Från driftledning—”
+Han klickade på **Sammanfatta**.
 
-“Peter,” sa Eva.
+Text dök upp i rutan:
 
-“Jag förstår.”
+**Underlag: Kvartalsmöte IT-strategienheten, anonymiserat testutdrag.**
 
-Men han började inte skriva.
+Karin lutade sig fram.
 
-Lina såg det direkt.
+“Varifrån kommer det där?”
 
-“Vad väntar du på?”
+“Testutdrag,” sa Jamal. “Jag gjorde det i går för att få något som liknade vår kontext.”
 
-Peter tittade åt sidan, bort från kameran.
+“Med vad som källa?”
 
-“Det finns en change freeze.”
+Han tvekade en halv sekund. “Gamla mötesanteckningar. Öppna agendor. Några mallar.”
 
-Jens började skratta.
+“Vilka mallar?” frågade Eva-Lotta.
 
-Först lågt. Sedan högre.
+Jamal tittade inte på henne. Det var i sig ett svar.
 
-Ingen annan skrattade.
+“Stabsmallar,” sa Helena från sin plats vid sidan av bordet.
 
-“Förlåt,” sa han till slut. “Jag hade glömt att katastrofer måste respektera releasekalendern.”
+Marianne vände sig mot henne för första gången sedan hon kom in. Det var ingen stor rörelse, men Helena sänkte blicken som om hon fått en hand på nacken.
 
-Peter såg olycklig ut.
+“Jag menar,” sa Helena, “det ser ut som strukturen från avdelningens sammanfattande minnesanteckningar.”
 
-“Jag säger inte att vi inte gör det. Jag säger att systemet kommer kräva change-referens.”
+“Det är möjligt att någon mall ingick,” sa Jamal.
 
-Marcus lyfte huvudet.
+Mira la båda händerna mot bordet. “Jamal. Prata inte som Lars. Det klär dig inte.”
 
-“Kan du skapa en?”
+Han såg nästan tacksam ut över förolämpningen.
 
-“Inte utan ärende.”
+“Okej,” sa han. “Jag bad om exempelmallar från olika delar av myndigheten för att demonstrationen skulle kännas relevant. Jag fick en zip från avdelningsstaben med mallar, exempeltexter och anonymiserade beslutsformuleringar.”
 
-“Incidentportalen är nere,” sa Lina.
+“Från vem?” frågade Karin.
 
-“Ja.”
+Jamal såg på Marianne.
 
-Alla stirrade på varandra.
+Det hade kanske inte varit hans avsikt. Det var en reflex. Men reflexer var, till skillnad från protokoll, ofta ärliga.
 
-Det var inte längre ens satir. Satir hade en gräns där någon överdrev verkligheten för effekt. Atlantis behövde ingen hjälp.
+Marianne svarade innan frågan hann bli hennes.
 
-Stefan reste sig.
+“Avdelningsstaben har uppmuntrat experiment med AI-stöd. Det är inget märkligt med det.”
 
-“Reservrutin.”
+“Nej,” sa Karin. “Det märkliga är att en demo för framtida arbetssätt råkar vara byggd på samma typ av formuleringar som redan placerat Tomas och mig i ett färdigt utkast.”
 
-“Finns den?” frågade Jens.
+Lars tog ett steg fram. “Nu blandar vi ihop—”
 
-“Ja.”
+“Ja,” sa Mira. “Det verkar vara dagens styrmodell.”
 
-Alla tittade på honom.
-
-Stefan såg för första gången på länge nästan nöjd ut.
-
-“För förändringar under spärrperiod finns manuell reservrutin med muntligt godkännande från verksamhetsansvarig och säkerhetsfunktion.”
-
-Jens pekade på honom.
-
-“Jag tar tillbaka hälften av alla elaka saker jag tänkt om dig.”
-
-“Bara hälften?”
-
-“Det är en process.”
-
-Eva Rask sa:
-
-“Jag är säkerhetsfunktion. Vem är verksamhetsansvarig?”
-
-Camilla höjde handen.
-
-“Min chef kan godkänna.”
-
-“Ring.”
-
-Camilla ringde.
-
-Alla väntade.
-
-Klockan var 11:12.
-
-Lina märkte hur tiden hade förändrat form. Förut hade förmiddagen varit ett antal agendapunkter. Nu var varje minut en behållare för skada. Varje fördröjning kunde bli en ny regel, ett nytt mejl, en ny falsk signering.
-
-Camilla fick svar.
-
-“Vi behöver muntligt godkännande för reservändring under change freeze. Ja. Nej, det är inte samma sak som tidigare. Ja, jag vet att listan ser godkänd ut. Den är inte godkänd. Nej, inte ens om Marcus... Marcus står här. Nej, han har inte godkänt det.”
-
-Hon blundade.
-
-“För att hans konto är kapat.”
-
-Paus.
-
-“Ja. Som i kapat.”
-
-Paus.
-
-“Nej, inte sociala medier. Myndighetskonto.”
-
-Lina såg Jens öppna munnen. Hon pekade på honom utan att titta. Han stängde den.
-
-Camilla lyssnade.
-
-Sedan räckte hon telefonen mot högtalaren.
-
-“Hon godkänner.”
-
-Eva Rask lutade sig fram på skärmen.
-
-“Det här är Eva Rask, informationssäkerhet. Bekräfta att du godkänner reservändring för att begränsa federation och tokenutgivning för berörda äldre flöden.”
-
-En röst i telefonen, skarp och irriterad och mycket vaken nu, svarade:
-
-“Jag godkänner.”
-
-Peter började skriva.
-
-“Jag lägger in change-referens som muntligt reservgodkännande.”
-
-“Gör det,” sa Eva.
-
-“Systemet frågar efter klassning.”
-
-“Kritisk incident.”
-
-“Påverkansområde?”
-
-“Identitet och verksamhetskritiska frigivningsflöden.”
-
-“Återställningsplan?”
-
-Jens stirrade på skärmen.
-
-“Är du seriös?”
-
-Peter såg plågad ut.
-
-“Fältet är obligatoriskt.”
-
-Lina tog ett steg fram.
-
-“Skriv: återställning sker efter verifierad identitet, spårbarhet och avveckling av äldre beroende.”
-
-Peter skrev.
-
-“Det är långt.”
-
-“Systemet får anpassa sig till verkligheten för en gångs skull.”
-
-Oskar tittade på sin egen skärm.
-
-“Global admin-sessionen rör sig.”
-
-“Vart?” frågade Marcus.
-
-“Grupphantering.”
-
-“Vilken grupp?”
-
-Oskar blev tyst.
-
-Lina kände det innan han sa det.
-
-“Global administratörer.”
-
-“No,” sa Noor igen.
-
-“Den försöker lägga till fler konton.”
-
-“Vilka?” frågade Eva.
-
-Oskar läste.
-
-“Först Marcus igen. Sedan ett servicekonto.”
-
-“Vilket servicekonto?” frågade Jens.
-
-Oskar sa namnet.
-
-Jens ansikte förändrades.
-
-Lina hatade att hon redan kände igen den förändringen.
-
-“Vad är det?” frågade hon.
-
-“Det är gammalt.”
-
-“Hur gammalt?”
-
-“Tillräckligt gammalt för att jag fortfarande hade hår som inte gav upp.”
-
-“Jens.”
-
-Han lutade sig över tangentbordet och öppnade en annan vy.
-
-“Det servicekontot användes i identitetsmoderniseringen för synk mellan gamla katalogen och nya federationstjänsten.”
-
-“Användes?”
-
-“Ja.”
-
-“Är det avvecklat?”
-
-Han såg på henne.
-
-“Vill du verkligen fråga?”
-
-Lina slog handen i bordet.
-
-Inte hårt. Tillräckligt.
-
-“Jag vill att någon en enda gång den här morgonen säger att något faktiskt är avvecklat när det ska vara avvecklat.”
-
-Ingen gjorde det.
-
-Stefan sa lågt:
-
-“Vi avvecklar dokument, inte beroenden.”
-
-Det var inte en ursäkt.
-
-Det var nästan en bekännelse.
-
-Noor hade återvänt till AI-grafen.
-
-“Jag kan söka efter servicekontot i beslutsdokumenten.”
-
-“Gör det,” sa Lina.
-
-Oskar invände inte den här gången.
-
-Noor sökte.
-
-Resultaten kom upp.
-
-Beslut om temporär parallell synk.
-Riskacceptans äldre attribut.
-Avvecklingsplan fas 2.
-Avvecklingsplan fas 2 reviderad.
-Avvecklingsplan fas 2 slutlig.
-Avvecklingsplan fas 2 slutlig ersätter slutlig.
-
-Jens viskade:
-
-“Vi borde förbjudas att namnge filer.”
-
-Noor öppnade den senaste.
-
-“Det står att kontot skulle stängas efter verifierad migrering av samtliga beroende flöden.”
-
-“Vem verifierade?” frågade Marcus.
-
-Noor skrollade.
-
-“Ansvarig: programkontor identitetsmodernisering.”
-
-“Finns det?”
-
-Jens skakade på huvudet.
-
-“Lades ner efter slutrapporten.”
-
-“Vem äger ansvaret nu?” frågade Camilla.
+Jamal stod med händerna över tangentbordet. “Ska jag fortsätta?”
 
 Ingen svarade.
 
-Lina såg på skärmen, på kontot som inte längre hade en ägare men fortfarande hade makt.
+Han fortsatte.
 
-Det var inte ett undantag.
+Verktyget sammanfattade testutdraget i fem punkter:
 
-Det var en kvarleva med rättigheter.
+- Enheten upplever behov av tydligare ansvarsfördelning.
+- Fritextsvar indikerar frustration kring kvalitetssäkring och rollförståelse.
+- Ett tidigare ärende rörande Norra flödet nämns som exempel på komplex ansvarskedja.
+- Det finns behov av att undvika personifiering av strukturella utmaningar.
+- Fortsatt arbete bör ske inom ramen för ordinarie linjestyrning.
 
-Teknikskuld var ett för snällt ord. Skuld antydde att någon visste beloppet och hade en plan för återbetalning. Det här var mer som att hitta ett gammalt lån i källaren som börjat skriva egna fakturor.
+Karin kände hur orden drog genom rummet som kall luft.
 
-Peter sa:
+Det var inte exakt det förberedda utkastet. Inte exakt. Men det var samma rörelse, samma mjuka hand som lade en filt över en kropp och kallade den vila. Undvika personifiering. Strukturella utmaningar. Ordinarie linjestyrning. Det var inte lögnen som sådan som gjorde henne illamående, utan hur ombonad den var.
 
-“Jag är inne i ändringen. Behöver bekräftelse innan jag trycker.”
+“Det där är inte ofarligt,” sa Tomas.
 
-Eva svarade:
+Alla såg på honom.
 
-“Bekräftat.”
+Det var första gången på länge han lät arg.
 
-Camillas chef i telefonen:
+Inte högt. Inte tydligt nog för att någon som inte kände honom skulle kalla det ilska. Men Karin hörde skillnaden. Den kantiga precisionen fanns kvar, men under den låg något varmt och mörkt.
 
-“Bekräftat.”
+“Det där är inte en sammanfattning,” fortsatte han. “Det är en rekommendation för hur verkligheten ska beskrivas.”
 
-Marcus tog ett steg fram.
+Marianne såg på honom med ett uttryck som kunde ha varit tålamod i ett annat rum.
 
-“Bekräftat från IT-strategienheten.”
+“Tomas, jag förstår att du upplever dig utsatt.”
 
-Oskar sa:
+“Nej,” sa han.
 
-“Vänta.”
+Ordet var kort och alldeles rent.
 
-Alla stannade.
+Karin såg Lars stelna. Hon såg Eva-Lotta sluta skriva. Hon såg Mira öppna munnen och stänga den igen.
 
-“Vad nu?” frågade Marcus.
+“Nej,” upprepade Tomas. “Du förstår inte det. Och jag upplever mig inte utsatt. Jag är utsatt. Skillnaden är väsentlig.”
 
-“Om vi begränsar federation på de äldre flödena kommer vi också bryta vår egen möjlighet att använda rollkedjan.”
+Det gick ett nästan omärkligt ryck genom Marianne. Kanske bara för att någon som var tänkt att vara föremål för hantering plötsligt hade börjat definiera begreppen själv.
 
-“Behöver vi den fortfarande?”
+“Tomas,” sa Lars, “jag tror inte—”
 
-Oskar tittade på projektorn.
+“Jag vet,” sa Tomas. “Det är ett av problemen.”
 
-Observatör hade inte skrivit sedan segmenteringen.
+Karin skulle under andra omständigheter ha skrattat. Inte för att det var roligt i någon enkel mening, utan för att det var Tomas på det mest Tomas-lika sättet: saklig, förödande och fullständigt oförmögen att välja social överlevnad framför begreppslig riktighet.
 
-“Jag vet inte.”
+Marianne vände sig mot Jamal.
 
-Lina såg mot listan på konton. Marcus. Servicekontot. Global admin-gruppen.
+“Gå vidare till beslutspunkterna.”
 
-“Angriparen försöker skaffa uthållighet,” sa hon.
+Jamal såg ut som om han övervägde att säga upp sig genom att långsamt försvinna bakom skärmen, men han klickade ändå på nästa flik.
 
-“Ja.”
+**Beslutspunkter**
 
-“Då måste vi stoppa det.”
+Verktyget arbetade i några sekunder. En liten snurrande symbol visades bredvid texten **Genererar preliminär struktur**.
 
-“Ja.”
+“Det här är alltså,” sa Jamal, “en funktion som försöker föreslå vad som verkar vara beslut, åtgärder eller öppna frågor i ett material. Den kan ha fel. Den har ofta fel. Den är nästan som en nyanställd utredare med för hög självkänsla och ingen historik.”
 
-“Även om vi förlorar vår egen väg.”
+“Äntligen en teknik jag känner igen,” sa Mira.
 
-“Ja.”
+Punkterna kom upp:
 
-Det var Oskar som sa det sista.
+**Föreslagna beslut/åtgärder:**
 
-Han hade redan förstått beslutet. Han behövde bara hata det först.
+1. Enhetschef fastställer sammanfattande beskrivning av ärendet före kl. 12.00.
+2. Tomas Ryd anges som ansvarig arkitekt för kompletterande kvalitetssäkring.
+3. Karin Holm anges som stöd för att hålla diskussionen på systemnivå.
+4. Bilaga 7 hanteras som ersatt arbetsmaterial.
+5. Öppna personfrågor lyfts inte i mötesanteckning.
 
-Peter tryckte.
+Det var som om rummet först tappade syre och sedan ljud.
 
-På skärmen i Teams syntes ingenting dramatiskt. Ingen röd varning, ingen digital explosion. Bara hans ansikte som blev upplyst av ett administrationsgränssnitt de andra inte såg.
+Karin stirrade på punkt tre.
 
-Oskar såg däremot.
+Hon visste redan att hennes namn fanns i utkastet. Hon hade hört Tomas säga det, hade sett hans ansikte när han berättade, hade känt hur marken under hennes egen position började luckras upp. Ändå var det något annat att se det på skärmen, i Jamals demo, i ett verktyg som inte borde veta detta om det inte fått det någonstans ifrån. Hennes namn stod där inte som person, utan som funktion. Stöd. Balans. Systemnivå. En liten spik i en större konstruktion.
 
-“Tokenutgivning begränsad.”
+“Jamal,” sa hon, och hennes röst lät så lugn att hon själv blev rädd för den. “Det här är inte ett ofarligt exempel.”
 
-Jens följde noderna.
+“Nej,” sa han. “Det ser jag.”
 
-“A-03 tappar federation.”
+“Varifrån kommer punkt tre?”
 
-Noor såg på grafen.
+Han klickade runt, fortare nu, öppnade en liten panel vid sidan. “Systemet visar inte alltid källfragmenten om inte— vänta.”
 
-“Kompatibilitetslagret blir grått.”
+Han tryckte på en ikon som såg ut som en kedjelänk.
 
-Camilla höll telefonen med båda händerna.
+Under punkt tre fälldes en källruta ut.
 
-Marcus slöt ögonen.
+**Källfragment identifierade:**
+- `sammanfattning_avd_DUVS_exempel_03.docx`
+- `minnesanteckning_mall_eskalering.docx`
+- `MS-ÄR-2024-1187_utkast_måndag_0812.docx`
 
-För en sekund kände Lina att rummet faktiskt andades.
+Eva-Lotta sa ingenting.
 
-Sedan sa Oskar:
+Det behövdes inte.
 
-“Global admin-sessionen är fortfarande aktiv.”
+Måndag 08.12.
 
-Peter svor.
+Samma tid som fredagsärendet hade uppdaterats.
 
-“Den borde ha tappat förnyelse.”
+Helena reste sig halvt ur stolen. “Det där dokumentet ska inte finnas i Jamals testmaterial.”
 
-“Den har redan hunnit skapa en lokal nödnyckel.”
+“Nej,” sa Karin. “Det verkar vara ett återkommande tema.”
 
-“Vad är lokal nödnyckel?” frågade Stefan.
+Marianne hade blivit mycket stilla.
 
-Jens svarade:
+Lars såg på henne nu. Inte på Karin, inte på skärmen, inte på Jamal. På Marianne. Och i den blicken fanns något Karin inte väntat sig: inte bara underordning, inte bara oro, utan en fråga. Som om han själv för första gången undrade vilken version av det här han hade varit med om att skapa, och vilken version som hade skapats genom honom.
 
-“Ett sätt att ta sig in när federation inte fungerar.”
+“Jamal,” sa Marianne. “Stäng demonstrationen.”
 
-Stefan såg på honom.
+“Jag vill inte göra det,” sa han.
 
-“Varför finns det?”
+Det var ett tunt svar, nästan ohörbart, men det var ett svar.
 
-“För att när federation inte fungerar vill folk kunna ta sig in.”
+Marianne vände sig långsamt mot honom.
 
-“Det låter rimligt.”
+“Ursäkta?”
 
-“Ja,” sa Lina. “Det är hela problemet.”
+Han svalde. “Jag vill inte stänga innan jag förstår varför ett verkligt ärendeutkast ligger i min demomiljö. Inte för att jag vill vara svår, men för att jag plötsligt ser vissa, eh, integritets- och informationshanteringsmässiga implikationer som känns rätt stora, faktiskt.”
 
-Oskar öppnade detaljerna.
+Mira tittade på honom med nästan öm förvåning. “Titta. Konkretion.”
 
-“Nödnyckeln är kopplad till ett break-glass-konto.”
+“Det är en order,” sa Marianne.
 
-Marcus såg upp.
+“Från vem?” frågade Eva-Lotta.
 
-“Det har väl strikt kontroll?”
+Marianne såg på henne.
 
-Oskar läste tyst.
+Eva-Lotta fortsatte: “I mötet deltar du som avdelningschef. Jamal visar en punkt på fastställd agenda. Om du avbryter punkten behöver jag veta om det är för att demonstrationen är felaktig, känslig eller besvärande.”
 
-Jens sa:
+“Eva-Lotta,” sa Lars, och hans röst hade en skärpa som fick rummet att minnas att han faktiskt kunde bli arg.
 
-“Du får inte vara hoppfull nu. Det är olämpligt.”
+Hon såg på honom.
 
-Oskar fortsatte läsa.
+“Jag försöker hjälpa dig,” sa hon. “Det är inte säkert att det märks.”
 
-“Break-glass-kontot kräver tvåpersonersgodkännande.”
+Det märktes. Inte som hjälp, kanske, men som något. Karin kände en oväntad tacksamhet mot henne, denna tystlåtna människa som hade suttit genom år av halva beslut och för långa samverkanspunkter och nu, när rummet nästan föll in i den färdiga berättelsen, vägrade låta språket slira en centimeter till.
 
-“Bra,” sa Marcus.
+“Visa versionsrörelsen,” sa Karin.
 
-“Godkännare är Marcus Levin och...”
+Marianne svarade innan Jamal hann röra sig.
 
-Han stannade.
+“Nej.”
 
-Lina kände hur hela förmiddagen drog sig samman till en punkt.
+Där var det.
 
-“Och?”
+Inte en fördröjning, inte en omformulering, inte ett försök att lyfta perspektivet. Bara nej.
 
-Oskar tittade på henne.
+Karin såg på henne och kände för första gången under förmiddagen en nästan fysisk lättnad. Ett rent nej var farligt, men det var också ärligt. Det gick att hålla i. Det gick att visa upp.
 
-“Lina Sjöberg.”
+“Varför inte?” frågade Karin.
 
-Det blev helt tyst.
+“För att ni håller på att använda en teknisk demonstration för att dra slutsatser om dokument ni inte har mandat att granska.”
 
-På projektorn tändes skärmen igen.
+“Men vi har mandat att låta mitt namn användas i dem?” frågade Karin.
 
-Observatör:
-Reservåtkomst initierad.
+“Ditt namn har inte använts i något fastställt dokument.”
 
-Observatör:
-Tvåpersonersgodkännande krävs.
+“Då kan vi väl titta på versionsrörelsen utan problem.”
 
-Sedan kom två rader.
+Marianne såg på henne en lång sekund.
 
-marcus.levin – godkänd  
-lina.sjoberg – inväntar
+“Du bör vara försiktig nu.”
 
-Lina stirrade på sitt namn.
+Det var första gången hotet inte var inlindat.
 
-Hennes dator pep.
+Karin kände Tomas röra sig bredvid henne, inte som om han tänkte stoppa henne, utan som om hans kropp mindes den gamla impulsen att gå emellan. Hon ville säga åt honom att låta bli. Hon ville lägga handen över hans, bara en sekund, inte som tröst utan som instruktion: stanna kvar, stå ut, låt mig göra det här. Men hon gjorde ingenting. Rummet var för fullt av ögon, och dessutom fanns det saker som blev mindre sanna om man gjorde dem för att andra skulle se.
 
-En godkännanderuta fyllde skärmen.
+“Jag har varit försiktig i flera år,” sa hon. “Det verkar inte ha hjälpt.”
 
-RESERVÅTKOMST – KRITISK ADMINISTRATION  
-Godkänn / Avvisa
+Mira drog efter andan. Jamal stod stilla vid tangentbordet. Lars såg ut som om han ville säga något som chef men inte visste vilken chef han skulle vara: Karins, sin egen eller Mariannes.
 
-Muspekaren rörde sig.
+Tomas såg på Karin.
 
-Inte av henne.
+Hon såg inte tillbaka. Hon vågade inte.
 
-Långsamt gled den mot Godkänn.
+“Jamal,” sa hon. “Visa versionsrörelsen.”
+
+Jamal slöt ögonen en kort sekund, som om han bad en bön till alla testmiljöers obarmhärtiga gudar, och klickade.
+
+Fliken öppnades.
+
+**Versionsrörelse**
+
+En ny ruta syntes på skärmen:
+
+**Välj dokument eller källkluster**
+
+Under fanns en lista:
+
+- `sammanfattning_avd_DUVS_exempel_03.docx`
+- `minnesanteckning_mall_eskalering.docx`
+- `MS-ÄR-2024-1187_utkast_måndag_0812.docx`
+- `Bilaga_7_ersatt_version.docx`
+- `Norra_flödet_arkitekturbedömning_original_återställd.tmp`
+
+Ingen rörde sig.
+
+Karin läste sista raden om och om igen.
+
+Original. Återställd. tmp.
+
+Tomas hade blivit vit.
+
+“Det där,” sa han, “är inte mitt filnamn.”
+
+“Nej,” sa Jamal. “Det ser ut som en temporär fil från återställning eller export. Jag vet inte varför den ligger där.”
+
+“Öppna den inte,” sa Marianne.
+
+Det var inte längre ett chefshot. Det var panik i kostym.
+
+Jamal öppnade den inte. Han markerade den bara, och verktyget, hjälpsamt på det sätt teknik kunde vara hjälpsam när den inte förstod konsekvenser, visade en förhandsanalys i högerspalten.
+
+**Identifierad versionsrörelse:**
+
+Ursprunglig formulering:
+> Avvikelsen från etablerad målarkitektur kan inte rekommenderas utan separat riskbedömning och beslutad kompensatorisk kontroll.
+
+Senare formulering:
+> Avvikelsen kan, under förutsättning av kompensatoriska kontroller enligt separat bedömning, hanteras inom ramen för ordinarie kvalitetssäkring.
+
+Markerad semantisk förändring:
+- Från avrådan till villkorad acceptans.
+- Från krav på föregående riskbedömning till hänvisning till separat bedömning.
+- Från beslutad kontroll till ospecificerad kompensatorisk kontroll.
+- Ansvarsmarkör flyttad från styrgrupp/uppdragsägare till kvalitetssäkrande arkitekt.
+
+Karin hörde inte längre ventilationen.
+
+Hon hörde bara Tomas andning.
+
+Det fanns ögonblick när en text slutade vara text och blev händelse. Det här var ett sådant ögonblick. De hade pratat hela förmiddagen om bilagor, utkast, versioner, protokoll, formuleringar och ansvar, men nu stod själva rörelsen där. Inte sanningen, kanske. Inte hela. Men ett spår genom språket, en karta över hur ett nej hade blivit ett kanske, hur ett krav hade blivit en hänvisning, hur en styrgrupp hade blivit Tomas.
+
+Mira sa tyst: “Herregud.”
+
+Eva-Lotta reste sig.
+
+“Skärmbild,” sa hon.
+
+“Nej,” sa Marianne.
+
+Eva-Lotta tog skärmbilden.
+
+Klicket från tangentbordet var nästan komiskt litet.
+
+Lars satte sig ner.
+
+Det var det som skrämde Karin mest. Inte Mariannes nej, inte Jamals bleka ansikte, inte ens Tomas tystnad. Lars satte sig ner som en människa som just insett att det inte längre fanns någon mötesledning att återvända till.
+
+Marianne gick fram till skärmen.
+
+“Det där materialet är inte validerat,” sa hon. “Det saknar kontext.”
+
+“Då tar vi fram kontexten,” sa Karin.
+
+“Du förstår inte vad du gör.”
+
+“Jo,” sa Tomas.
+
+Alla vände sig mot honom.
+
+Han hade rest sig. Inte mycket, han stod fortfarande nära stolen, men det räckte. Karin mindes plötsligt en kväll för flera år sedan när de stått vid en whiteboard och han hade sagt att en formulering inte behövde vara dramatisk för att vara modig; ibland räckte det att den vägrade bli bekväm. Hon hade skrattat då och skrivit i marginalen att han borde få det som väggord i något rum utan människor. Nu såg hon samma vägran i honom, inte bekväm, inte vacker, men verklig.
+
+“Hon förstår,” sa Tomas. “Det är därför ni vill att hon ska sluta.”
+
+Marianne såg på honom med en trötthet som plötsligt gjorde henne äldre.
+
+“Tomas, jag har försökt skydda dig från konsekvenserna av din egen bristande förankring.”
+
+Han log nästan.
+
+“Nej. Ni har försökt använda min bristande förankring som bevis för att jag kunde bära konsekvenserna.”
+
+Det var en mening som bara Tomas kunde ha sagt och bara Karin kunde ha velat gråta av.
+
+Jamal harklade sig.
+
+“Det finns mer.”
+
+Ingen sa något.
+
+Han pekade på skärmen, inte på texten utan på en liten rad längst ned i förhandsanalysen.
+
+**Återställningskälla:** `MS-IT-78431_localcache_2024-11-18_1749`
+
+Tomas dator.
+
+Karin kände hur rummet vred sig ett kvarts varv.
+
+“Det där är Tomas inventarienummer,” sa Eva-Lotta.
+
+Oskar från internservice, som fortfarande inte hade lyckats lämna rummet och som nu såg ut som en person som börjat ångra alla sina karriärval tillbaka till gymnasiet, tittade på sin surfplatta.
+
+“Ja,” sa han. “MS-IT-78431.”
+
+Marianne blundade i en sekund. Inte länge. Men Karin såg det.
+
+Lars också.
+
+Mira började prata, snabbt och lågt, som om hon behövde springa före sin egen rädsla.
+
+“Vänta, om återställningskällan är Tomas lokala cache och datorn togs ur skåpet i morse och Jamals testmiljö redan har temporärfilen, då har någon antingen exporterat materialet innan datorn hämtades, eller också har testmiljön plockat upp en återställd kopia från någon synk, men då måste synken ha varit kopplad till ett konto eller en arbetsyta, och varför skulle Jamal ha tillgång till Tomas lokala cache om inte—”
+
+“Om inte någon lade den i demomaterialet,” sa Karin.
+
+Jamal såg på henne, förtvivlad.
+
+“Jag gjorde inte det.”
+
+“Nej,” sa Karin. “Jag tror dig.”
+
+Och hon gjorde det. Inte för att Jamal var oförmögen att göra fel; han var tvärtom en person som kunde göra fel med sådan entusiasm att felet först långt senare förstod att det var ett fel. Men han var inte skicklig nog att plantera en temporär återställningsfil och samtidigt se ut som om han ville upplösas i myndighetens heltäckningsmatta.
+
+“Vem gav dig zipen från avdelningsstaben?” frågade hon.
+
+Jamal såg på Marianne igen, men den här gången försökte han inte hejda blicken.
+
+“Den kom från en funktionsbrevlåda.”
+
+“Vilken?” frågade Eva-Lotta.
+
+“DUVS-stab-samordning.”
+
+Helena Mark satte sig långsamt ner.
+
+“Det är vår brevlåda,” sa hon.
+
+Marianne vände sig mot henne.
+
+Helena lyfte händerna lite, en reflex av försvar som inte hade något försvar i sig.
+
+“Jag skickade inte något till Jamal.”
+
+“Vem har behörighet?” frågade Karin.
+
+Helena såg på bordet. “Staben. Marianne. Jag. Två samordnare. Lars har läsbehörighet i vissa mappar för avdelningsgemensamma underlag.”
+
+“Inte skrivbehörighet,” sa Lars.
+
+Alla såg på honom.
+
+Han sa det snabbt, för snabbt, och kanske insåg han själv det, för han fortsatte genast:
+
+“Jag menar, inte normalt. Inte till funktionsbrevlådans utskick.”
+
+Eva-Lotta antecknade.
+
+“Normalt,” sa hon.
+
+Lars såg ut som om han ville ta tillbaka ordet och hela den språkliga familj det tillhörde.
+
+På skärmen blinkade en ny rad till.
+
+Jamal hade inte rört tangentbordet.
+
+**Fler relaterade källfragment identifierade. Visa?**
+
+Under stod två knappar.
+
+**Ja**  
+**Nej**
+
+Ingen andades ordentligt.
+
+“Det där brukar inte hända,” viskade Jamal.
+
+“Vad betyder fler källfragment?” frågade Mira.
+
+“Att verktyget hittat text med hög likhet eller kopplad metadata.”
+
+“Var?” frågade Karin.
+
+“Det vet jag inte förrän vi klickar.”
+
+Marianne gick mot tangentbordet.
+
+“Nej,” sa Karin.
+
+Marianne stannade. “Det räcker nu.”
+
+“Det gjorde det för länge sedan,” sa Karin. “Men inte på det sätt du menar.”
+
+Oskar tittade på dörren. Eva-Lotta tittade på skärmen. Tomas tittade på Karin.
+
+Lars tittade på Marianne.
+
+Och Marianne, som hade kommit in i rummet med den version som skulle användas, såg för första gången ut som om rummet hade börjat skriva en egen.
+
+Jamal lyfte händerna från tangentbordet.
+
+“Jag tänker inte klicka,” sa han. “Någon annan får göra det.”
+
+Det var fegt och modigt på samma gång, vilket kanske var den vanligaste formen av mod i en myndighet.
+
+Karin reste sig.
+
+“Då gör jag det.”
+
+“Om du klickar,” sa Marianne, “tar du ansvar för konsekvenserna.”
+
+Karin tänkte på hur många gånger ansvar under förmiddagen hade använts som en säck att lägga över fel person, hur det hade flyttats från styrgrupp till arkitekt, från chef till möte, från dokument till språk, från språk till tystnad. Hon tänkte på Tomas, som hade försökt bära mer än sitt. Hon tänkte på sitt eget namn, placerat i ett utkast för att göra hennes tystnad användbar. Och hon tänkte, med en nästan löjlig klarhet, att det kanske var så ansvar såg ut när det inte var förfalskat: inte som att ta skulden för någon annans text, utan som att vägra låta texten stå oemotsagd.
+
+Hon klickade på **Ja**.
+
+Skärmen arbetade.
+
+En rad kom upp.
+
+**Relaterat källfragment: `kommentar_MV_till_LE_2024-11-18_1752.txt`**
+
+Sedan visades texten.
+
+> Bra. Byt inte mer nu. Ryd får bära arkitekturdelen. Lägg in Holm som balans om hon protesterar.
+
+Karin hörde någon säga hennes namn.
+
+Kanske Tomas.
+
+Kanske hon själv.
+
+Då slocknade skärmen.
+
+“Den hittar inte sanningen,” sa Jamal plötsligt.
+
+Alla såg på honom.
+
+Han hade blivit blekare än vanligt, och det visionära i honom hade dragit sig undan som en gardin någon ryckt bort. “AI:n, menar jag. Den förstår inte att det här är viktigt. Den visar bara samband i materialet jag matat in. Om den visar fel material, eller farligt material, då beror det på att någon gav den det. Inte på att den är smartare än vi.”
+
+“Det var nästan lugnande,” sa Mira. “På ett fullständigt katastrofalt sätt.”
+
+Karin tog fasta på det. Inte en maskin som avslöjade sanningen. En mänsklig röra som råkat lysas upp från fel håll.
+
+Sedan såg hon källistan i nederkanten av Jamals grå felruta.
+
+De flesta filnamnen var redan bekanta nu, vilket i sig var absurt; hon hade hunnit bli hemmastadd i en beviskedja hon inte ens vetat fanns när hon hällde upp sitt första kaffe. Men ett namn fick allt annat att tystna.
+
+`KH_kompletterande_arkitekturbedömning_utkast.docx`
+
+Karin läste initialerna.
+
+K. H.
+
+Filen var tidsstämplad 11.43.
+
+Hon hade aldrig skrivit den.
+
+---
+
+## Kapitelnotering
+
+- Viktiga händelser:
+  - Marianne Vester försöker återta kontrollen och styra mötet tillbaka till framtidspunkten/AI-demonstrationen.
+  - Jamals AI-demo visar sig innehålla relevanta dokumentfragment från avdelningsstaben och ärendet MS-ÄR-2024-1187.
+  - Verktyget föreslår beslutspunkter som speglar den färdiga berättelsen: Tomas som ansvarig och Karin som stöd för att hålla diskussionen på systemnivå.
+  - Funktionen `Versionsrörelse` råkar visa hur formuleringen ändrats från avrådan till villkorad acceptans och hur ansvaret flyttats mot kvalitetssäkrande arkitekt.
+  - Återställningskällan pekar på Tomas dator med inventarienummer MS-IT-78431.
+  - Karin klickar fram ett relaterat källfragment som verkar vara en kommentar från Marianne till Lars: “Ryd får bära arkitekturdelen. Lägg in Holm som balans om hon protesterar.”
+  - Skärmen slocknar precis efter avslöjandet.
+  - Karin ser filen `KH_kompletterande_arkitekturbedömning_utkast.docx` i källistan, tidsstämplad 11.43, trots att hon aldrig skrivit den.
+- Nya kontinuitetspunkter:
+  - Jamals AI-demo bygger delvis på material från avdelningsstaben via funktionsbrevlådan `DUVS-stab-samordning`.
+  - Demomaterialet innehåller `MS-ÄR-2024-1187_utkast_måndag_0812.docx`, `Bilaga_7_ersatt_version.docx` och en temporär återställd originalfil.
+  - Versionsrörelsen visar konkret hur Tomas ursprungliga avrådan förvandlats till villkorad acceptans.
+  - Återställningskällan är `MS-IT-78431_localcache_2024-11-18_1749`, vilket kopplar originalspåret till Tomas saknade dator.
+  - Ett relaterat källfragment antyder direkt samordning mellan Marianne och Lars.
+- Relationsförändringar:
+  - Karin går ännu tydligare från försiktig invändare till aktiv avslöjare.
+  - Tomas försvarar Karin öppet och säger att hon förstår precis vad hon gör.
+  - Jamal blir en motvillig men viktig aktör när hans demo avslöjar versionshistorik.
+  - Eva-Lotta fortsätter fungera som språklig och administrativ motkraft.
+  - Marianne visar sitt första öppna hot mot Karin.
+  - Lars börjar framstå som pressad även av Marianne, inte bara som egen kontrollerande aktör.
+- Öppna frågor:
+  - Varför slocknade skärmen?
+  - Är kommentaren från Marianne till Lars äkta, och hur hamnade den i demomaterialet?
+  - Vem skickade materialet från funktionsbrevlådan till Jamal?
+  - Vem har skapat eller namngivit ett utkast i Karins initialer?
+  - Var är Tomas dator nu?
+  - Vad kommer Marianne och Lars göra när textfragmentet har visats för hela rummet?

@@ -1,517 +1,503 @@
-# Kapitel 7 – AI-rummet
+# Kapitel 7 – Pausen
 
-Noor stirrade på sitt namn.
+Pausen var inte en paus.
 
-Det låg där på skärmen som en anklagelse.
+Den stod visserligen i agendan, inklämd mellan kvalitetssäkring och framtidspunkt, femton minuter med ett avrundat typsnitt och en liten kaffekoppsikon som Jamal hade lagt in därför att han tyckte att även struktur kunde vara omtänksam, men det som nu uppstod i rummet hade inget med återhämtning att göra. Det var bara en förändring av hur hotet rörde sig. Nyss hade det gått längs bordet i form av dokument, frågor och protokollförbara invändningar. Nu splittrades det upp i blickar, viskningar, telefoner som vändes med skärmen nedåt och människor som plötsligt behövde fylla på kaffe trots att ingen drack.
 
-noor.haddad
+Lars reste sig först.
 
-Tillagd av: marcus.levin.
-Grupp: TEMP-MANUELL-FRIGIVNING-UTÖKAD.
+“Vi tar tio minuter,” sa han, med den där rösten som gjorde en instruktion till en omsorgshandling. “Alla kan behöva hämta andan.”
 
-Hon rörde inte tangentbordet. Rörde inte musen. Inte ens stolen. Som om minsta rörelse kunde räknas som medgivande.
+“Femtio minuter kvar till tolv,” sa Eva-Lotta.
 
-“Jag gjorde inget,” sa Marcus.
+Han såg på henne.
 
-Hans röst var tunn.
+“Jag bara noterar tidsläget,” sa hon.
 
-Lina trodde honom.
+“Gör gärna det,” sa Lars. “Men inte allt behöver noteras högt.”
 
-Det var inte längre svårt att tro på oskuld. Det svåra var att veta vad oskuld betydde när konton, roller och beslut hade slitits loss från människorna i rummet och börjat röra sig själva genom organisationen.
+Eva-Lotta skrev något i sitt block. Karin såg inte vad, men hon hoppades att det var exakt den meningen.
 
-Oskar öppnade loggdetaljerna.
+Tomas reste sig inte. Han satt kvar med kaffekoppen i handen, fortfarande tom, fortfarande fasthållen som om den kunde förankra honom i något som ännu inte hade ändrats i efterhand. Helena Mark samlade ihop pappren ur det blå omslaget men lämnade själva omslaget kvar på bordet, mitt bland agendorna och mobiltelefonerna, som en medveten påminnelse om att vissa saker inte blev mindre verkliga för att man sköt dem till nästa punkt. Mira sköt bak stolen så snabbt att benen skrek mot golvet. Jamal började säga något om att pauser i komplexa system ofta fungerade som informella beslutsrum, kom halvvägs, mötte Karins blick och avslutade med: “Jag hämtar kaffe.”
 
-“Ändringen kom från Marcus konto. Källa A-03. Samma mönster.”
+Det var klokare än mycket annat han hade sagt den här förmiddagen.
 
-“Ta bort mig,” sa Noor.
+Karin tog sin telefon från bordet och lade den i fickan utan att läsa meddelandet igen. Hon behövde inte. Orden hade redan flyttat in någonstans bakom ögonen.
 
-“Vänta,” sa Jens.
+**Fråga varför hans dator är borta.**
 
-Hon vände sig mot honom.
+Det fanns en enkel förklaring, förstås. Det fanns alltid enkla förklaringar, och människor som Lars hade byggt hela sina karriärer på att erbjuda dem i precis rätt tonfall. Datorn kunde vara på service. Den kunde ligga i Tomas skåp. Den kunde ha lämnats hemma, urladdad, glömd i hallen, borttappad i en taxi, vad som helst som var pinsamt men inte hotfullt, mänskligt men inte strategiskt. Problemet var att Tomas inte såg ut som en man vars dator var glömd i en hall. Han såg ut som en man som visste att något i datorns frånvaro hade blivit farligare än datorn själv.
 
-“Vadå vänta?”
+Lars gick mot Helena.
 
-“Om angriparen lagt till dig nu finns det en anledning.”
+Inte snabbt. Inte direkt. Han rörde sig först mot kaffetermosen, sedan justerade han en stol, sedan tog han ett steg åt sidan som av en slump råkade föra honom närmare henne. Karin hade sett honom göra det förr, denna mjuka koreografi där ingenting var avsiktligt förrän det redan hade hänt. Helena såg också ut att se det. Hon lät honom komma tillräckligt nära för att samtalet skulle kunna bli lågt men inte privat.
 
-“Ja. Att använda mig.”
+“Karin.”
 
-“Precis.”
+Tomas hade sagt hennes namn.
 
-“Det är inte ett argument för att låta det hända.”
+Inte högt. Inte ens särskilt tydligt. Ändå vände hon sig omedelbart, och hatade sig själv lite för hur lätt kroppen fortfarande lydde den rösten när han inte använde den för att förklara ett dokument.
 
-“Det är ett argument för att se vart det försöker gå innan vi klipper fel tråd.”
+Han stod nu. Han hade rest sig utan att hon märkt det, vilket i sig var fel. Tomas gjorde sällan saker obemärkt. Han sköt in stolar, placerade pennor parallellt med papper, ställde koppar på underlägg även när underlägg saknades och kommenterade tyst i efterhand om någon hade blandat ihop beslutspunkt med informationspunkt. Nu stod han bredvid sin stol med händerna tomma.
 
-Noor såg ut som om hon ville kasta något på honom. Lina förstod henne. Det var en sak att tala om spårning och observation när någon annans identitet användes som bete. En helt annan när betet bar ens eget namn.
+“Kan vi prata?” frågade han.
 
-Marcus satte handen mot bröstet, nästan omedvetet.
+Det fanns en tid, tänkte Karin, när den frågan från honom hade kunnat betyda något annat. Eller kanske hade hon bara önskat det då, och önskat i efterhand att hon inte hade önskat så tydligt. Kan vi prata hade betytt att han hittat ett fel i en riskmatris, att en leverantörsformulering borde strykas, att en princip behövde få en bättre rubrik, och ibland, väldigt sällan, att han hade suttit för länge med något han inte kunde formulera ensam. Aldrig hade det betytt det enkla som andra människor menade med orden.
 
-“Mitt konto måste spärras.”
+Nu betydde det kanske allt på samma gång.
 
-“Ja,” sa Oskar.
+“Ja,” sa hon.
 
-“Och Linas.”
+Lars såg det. Hans blick rörde sig från Tomas till Karin, sedan till dörren. Han sa inget, vilket var värre än om han hade gjort det. Den sortens tystnad var inte frihet. Den var en rad i ett framtida resonemang.
 
-“Ja.”
+Karin följde Tomas ut i korridoren.
 
-“Och Noors.”
+Glasväggen gjorde det nästan omöjligt att lämna rummet utan att fortsätta vara en del av det. Hon såg Mira vid kaffebordet, redan mitt i ett samtal med Jamal där båda höll muggar men ingen drack. Hon såg Eva-Lotta stå kvar inne i konferensrummet och tala med Helena, pennan fortfarande i handen. Hon såg Lars vända sig bort från dem och ta upp sin telefon. Det borde ha varit det hon följde med blicken, Lars telefon, hans tumme över skärmen, men Tomas fortsatte gå och hon gick efter.
 
-“Ja.”
+Han stannade inte vid kaffet. Han gick förbi de öppna samtalsborden, förbi väggen med myndighetens värdeord i frostad vinyl, förbi den lilla nischen där en grön växt kämpade tappert mot både lysrör och budgetrestriktion. Först vid kopieringsrummet, där dörren stod på glänt och en maskin någonstans inne suckade över ett pappersstopp, stannade han.
 
-“Då gör vi det.”
+“Du ska inte göra det här,” sa han.
 
-“Om vi spärrar alla tre samtidigt,” sa Oskar, “kan vi tappa spårningen av pågående kedja.”
+Karin hann nästan skratta. Inte för att det var roligt, utan för att meningen var så trött, så förutsägbar, så Tomas och samtidigt inte alls Tomas. Han brukade inte börja med slutsatsen. Han brukade bygga ett litet ställverk av förbehåll, villkor, definitioner och reservationer innan han försiktigt närmade sig det han egentligen menade. Nu stod han här i en korridor och sa åt henne att låta bli, som om de var människor i en annan sorts berättelse.
 
-Marcus stirrade på honom.
+“Vad är det här?” frågade hon.
 
-“Du menar att vi ska låta angriparen fortsätta använda våra konton?”
+Han såg mot konferensrummet. “Du vet vad jag menar.”
 
-“Jag menar att vi måste välja om vi vill stoppa just nu eller förstå tillräckligt för att stoppa rätt sak.”
+“Nej,” sa hon. “Jag vet faktiskt inte längre. Det är lite det som är problemet med den här förmiddagen. Alla utgår från att någon annan vet vad de menar och sedan hamnar det i ett protokoll.”
 
-“Jag tycker vi väljer stoppa,” sa Noor.
+“Det är inte rätt tillfälle för den tonen.”
 
-“Jag också,” sa Camilla.
+“Det finns tydligen aldrig rätt tillfälle.”
 
-Lina kände hur alla blickar rörde sig mot henne utan att någon bad om det. Det var orättvist. Hon var inte chef. Hon hade inte formellt mandat. Hon var en arkitekt i ett rum där arkitekturen just hade visat sig vara mer levande än organisationen.
+Han slöt ögonen en sekund. När han öppnade dem igen var han mer samlad, vilket skrämde henne mer. Tomas i panik gick att nå. Tomas samlad kunde gömma sig bakom sin egen exakthet tills han nästan försvann.
 
-Men ibland blev ansvar bara det som föll på den som fortfarande kunde formulera nästa steg.
+“Min dator är borta,” sa han.
 
-“Vi gör båda,” sa hon.
+Det borde ha känts som en seger att han sa det utan att hon behövde fråga. Det gjorde det inte.
 
-Stefan höjde ögonbrynen.
+“Borta hur?”
 
-“Hur?”
+“Den låg inte i mitt skåp i morse.”
 
-“Vi isolerar vad kontona kan göra innan vi stänger dem helt. Vi stoppar deras möjlighet att påverka frigivning och manuell kö. Oskar spårar. Jens identifierar beroenden. Noor håller AI-demon lokal och använder den bara för att analysera dokument och flöden. Marcus får tag i någon med faktiskt säkerhetsmandat.”
+“Varför skulle den ligga i ditt skåp?”
 
-Marcus nickade.
+“För att jag lämnade den där i går.”
 
-Sedan såg han på henne.
-
-“Och du?”
-
-Lina tittade på sitt eget namn i loggarna. På Marcus. På Noor. På den kedja någon byggde av dem.
-
-“Jag försöker förstå varför just vi.”
-
-Ingen svarade.
-
-Det var kanske den mest obehagliga frågan av alla.
-
-För det fanns hundratals konton på Atlantis. Tusentals, om man räknade gamla servicekonton, funktionsanvändare, testrester och allt annat digitalt damm som samlades i hörn ingen längre städade.
-
-Men angriparen rörde sig genom människor i Fyrskeppet.
-
-Genom mötet.
-
-Genom dagens agenda.
-
-Lina såg mot Noors dator.
-
-“Vad finns i AI-underlaget som handlar om oss?”
-
-Noor blinkade.
-
-“Om oss?”
-
-“Om IT-strategienheten. Roller, ansvar, dokument, presentationsmaterial. Vad har demon läst som beskriver vilka vi är?”
-
-Noor började skriva, långsamt först, sedan snabbare.
-
-“Agenda. Deltagarlista. Rollbeskrivningar. Presentationen om decentraliserad arkitektur. Medarbetarundersökningen i aggregerad form. Några tidigare beslut. Min demokonfiguration.”
-
-“Deltagarlista?” frågade Oskar.
+“Kvar över natten?”
 
 “Ja.”
 
-“Med användar-ID?”
-
-Noor stannade.
-
-“Jag tror inte det.”
-
-“Noor.”
-
-“Jag måste kolla.”
-
-Hon öppnade en katalog med underlag. Lina såg filnamn flimra förbi. Det var alltid något avslöjande med filnamn i organisationer. De berättade inte bara vad något var, utan hur många gånger någon försökt skapa ordning.
-
-APT_agenda_slutlig.pptx
-APT_agenda_slutlig_NY.pptx
-AI_demo_underlag_rensat.xlsx
-AI_demo_underlag_rensat_verkligen.xlsx
-deltagare_halvdagsmote_export.csv
-
-Jens pekade.
-
-“Den där.”
-
-Noor öppnade CSV-filen.
-
-Deltagarlistan fyllde skärmen.
-
-Namn. Roll. Enhet. Mejladress. Användar-ID. Behörighetsprofil. Ansvarsområde.
-
-Oskar slöt ögonen.
-
-Lina behövde inte hans kommentar för att förstå.
-
-Demon hade kanske inte orsakat intrånget.
-
-Men den hade samlat en perfekt karta över människorna i rummet.
-
-“Varför finns behörighetsprofil i deltagarlistan?” frågade Marcus.
-
-Noor såg plågad ut.
-
-“För att jag ville visa hur AI kunde koppla roller till arkitekturansvar och föreslå kvalitetssäkringspunkter.”
-
-“Så du lade in behörighetsprofiler.”
-
-“Exporterade. Inte lade in manuellt.”
-
-“Det är inte bättre,” sa Oskar.
-
-“Noor försökte visa nyttan,” sa Lina.
-
-“Nytta är inte en säkerhetskontroll.”
-
-“Nej. Men det är inte samma sak som skuld.”
-
-Noor tittade snabbt på henne.
-
-Det var ingen stor tacksamhet i blicken. Bara lättnad över att någon i rummet skilde mellan misstag och förräderi.
-
-Stefan gick fram till skärmen.
-
-“Kan angriparen ha fått den filen?”
-
-“Dokumentkatalogen nåddes externt,” sa Oskar. “Så ja.”
-
-“Då vet angriparen vilka vi är, vilka roller vi har och vilka behörighetsprofiler som är intressanta,” sa Jens.
-
-Camilla satte sig långsamt.
-
-“Och vilka av oss andra litar på.”
-
-Lina såg på henne.
-
-Där var det.
-
-Identitet var inte bara inloggning. Det var förtroende.
-
-En fil från Camilla laddades ner eftersom verksamheten litade på Camilla.
-
-Ett mejl från Marcus följdes eftersom Marcus var chef.
-
-En ändring av Linas konto såg rimlig ut eftersom Lina hade arkitekturmandat.
-
-Noor kunde bli nästa steg eftersom hon hade dagens AI-demo, dagens förklaring, dagens syndabocksroll.
-
-“Vad kan Noor göra i den gruppen?” frågade Lina.
-
-Oskar klickade fram behörigheterna.
-
-“Med TEMP-gruppen kan hon trigga prioriterad manuell frigivningskö och godkänna exportpaket.”
-
-“Exportpaket?” frågade Camilla.
-
-Jens svarade:
-
-“Sammanställning som skickas till verksamhetsflöden när ordinarie system inte används.”
-
-“Som frigivningslistan?”
-
-“Värre. Mer formellt.”
-
-Noor backade från datorn.
-
-“Spärra mig.”
-
-“Ja,” sa Lina. “Men först: finns det redan ett exportpaket skapat?”
-
-Oskar sökte.
-
-Sekunderna drog ut.
-
-Lina hörde Marcus lämna ett nytt röstmeddelande till en ny chef. Hon hörde Stefan andas genom näsan, långsamt och sammanbitet. Hon hörde Jens knäppa med locket till sin penna, om och om igen, tills Camilla lade handen över pennan och han slutade utan att se på henne.
-
-“Ja,” sa Oskar.
-
-Noor blundade.
-
-“Namn?”
-
-“AI_rekommenderad_prioritering.zip.”
-
-Jens lutade huvudet bakåt.
-
-“Naturligtvis heter den så.”
-
-Marcus avbröt sitt meddelande.
-
-“Har den skickats?”
-
-“Inte än.”
-
-“Stoppa den,” sa Noor.
-
-Oskar arbetade snabbt.
-
-“Den ligger i kö för signering.”
-
-“Av vem?” frågade Lina.
-
-Alla visste svaret innan Oskar sa det.
-
-“Noor.”
-
-Noor skrattade till. Ett kort, knäckt ljud.
-
-“Det är som om angriparen skriver en pedagogisk fallstudie i varför jag borde få sparken.”
-
-“Det kanske är poängen,” sa Stefan.
-
-Alla vände sig mot honom.
-
-Han såg nästan förvånad ut över att ha sagt det.
-
-“Vad menar du?” frågade Lina.
-
-“Om man vill dölja ett intrång lägger man det bakom teknisk komplexitet. Men om man vill skapa kaos lägger man skuld på människor som redan är kontroversiella.”
-
-“Noor och AI-demon,” sa Camilla.
-
-“Lina och förändringslinjen,” sa Jens.
-
-“Marcus och beslutskedjan,” sa Oskar.
-
-Stefan nickade.
-
-“Camilla och verksamheten.”
-
-Lina såg på honom.
-
-Det var en bra analys.
-
-Irriterande bra.
-
-“Så angriparen utnyttjar våra interna konfliktlinjer,” sa hon.
-
-“Eller så har den haft tur,” sa Marcus.
-
-Oskar tittade på honom.
-
-“Tur är inte en strategi.”
-
-“Nej,” sa Lina. “Men intern dokumentation kan vara det.”
-
-Noor satte sig igen, långsamt.
-
-“Jag kan använda demon för att söka efter kopplingar mellan rollerna och flödena som utnyttjats.”
-
-Oskar svarade direkt:
+“Du gör aldrig det.”
 
 “Nej.”
 
-“Lokalt. Offline. Samma export vi redan har.”
+Det lilla ordet föll mellan dem och blev större än det borde. Karin hörde kopieringsmaskinen försöka igen, rassla, ge upp, pipa med en ton som var både anklagelse och hjälplöshet. Det var nästan skönt att något i byggnaden var ärligt med att det hade fastnat.
 
-“Det är fortfarande en AI-modell i en incident.”
+“Varför lämnade du den?” frågade hon.
 
-“Det är ett analysverktyg.”
+Tomas tryckte tungan mot insidan av kinden, en rörelse hon mindes från förr. Han gjorde så när han inte ville rätta någon för att det skulle göra saken värre, eller när han hade för mycket att säga och inget av det kunde sägas utan följder.
 
-“Det är ett okontrollerat analysverktyg.”
+“Jag blev ombedd.”
 
-Noor slog handen i bordet.
+“Av vem?”
 
-“Det är inte AI:n som kapade era konton!”
+Han svarade inte.
 
-Rummet tystnade.
+“Tomas.”
 
-Hon andades hårt. Ögonen var blanka, men rösten höll.
+“Det var inte formellt.”
 
-“Ni ville ha demo av möjligheter med AI. Nu när något går fel blir AI:n automatiskt monstret i rummet. Men vet ni vad den faktiskt gjorde? Den hittade kopplingen ni inte hade dokumenterat. Den gjorde det våra kartor inte klarade. Den visade ett problem som fanns där innan jag ens bokade det här mötet.”
-
-Lina såg hur orden träffade.
-
-Inte som försvar. Som sanning.
-
-Noor fortsatte, lägre nu:
-
-“Jag kan ha gjort fel med underlaget. Det kan jag ta ansvar för. Men problemet är inte att vi testade ett nytt verktyg. Problemet är att vi behövde ett nytt verktyg för att förstå vår gamla röra.”
-
-Jens nickade långsamt.
-
-“Hon har rätt.”
-
-Oskar såg inte glad ut.
-
-“Det gör inte verktyget säkert.”
-
-“Nope,” sa Jens. “Men det gör verkligheten osäker också.”
-
-Marcus drog handen över pannan.
-
-“Okej. Kontrollerat. Lokalt. Ingen ärendedata. Ingen persondata utöver det som redan finns i deltagarlistan.”
-
-Oskar stirrade på honom.
-
-“Det där är inte en liten sak.”
+Karin stirrade på honom. “Det var den minst lugnande meningen du kunde välja.”
 
 “Jag vet.”
 
-Marcus lät trött, men inte undvikande.
+“Av vem?”
 
-“Jag fattar beslutet.”
+Han sänkte rösten. “Lars.”
 
-Det var andra gången.
+Där var namnet. Inte som en bomb, inte som ett stort avslöjande med musik under, utan som något nästan banalt, nästan väntat, och kanske därför värre. Lars hade bett honom lämna datorn. Tomas hade gjort det. En vuxen människa, en senior arkitekt, en person som kunde ifrågasätta ett kommatecken i en styrmodell i fyrtio minuter, hade lämnat sin dator därför att chefen bad honom.
 
-Lina såg det hända. Inte som en dramatisk karaktärsutveckling. Mer som ett system som under extrem belastning började hitta en annan väg.
+Karin kände ilskan komma, men den riktade sig inte bara mot Lars.
 
-Noor vände sig mot sin dator.
+“Varför i hela friden gjorde du det?”
 
-“Okej. Jag söker efter mönster mellan kapade identiteter, behörighetsgrupper, manuella rutiner och mötesunderlag.”
+Tomas ryckte till. Inte mycket, men hon såg det.
 
-“Gör en kopia av datat först,” sa Oskar.
+“För att jag fick veta att det fanns en säkerhetsfråga.”
+
+“Vilken säkerhetsfråga?”
+
+“Att min dator kunde innehålla kopior av underlag som inte längre skulle hanteras lokalt.”
+
+Hon väntade.
+
+Han såg bort.
+
+“Kopior av originalbilagan?” frågade hon.
+
+“Bland annat.”
+
+“Bland annat vad?”
+
+“Kommentarer.”
+
+“Vems kommentarer?”
+
+“Karin.”
+
+Hon hörde sitt namn i hans mun och visste redan innan han sa mer att det inte bara handlade om mötet, inte bara om Bilaga 7, inte bara om en signatur som lutade åt fel håll. Någon hade förstått att deras gamla arbetsspår kunde användas mot dem. Eller mot henne. Eller mot honom. Eller mot sanningen, vilket i en organisation ofta var nästan samma sak men med mindre ansvar.
+
+“Mina kommentarer?” sa hon.
+
+“Det fanns en kopia av den gamla versionen. Den jag skickade till dig.”
+
+“Riskbilagan?”
 
 “Ja.”
 
-“Hasha den.”
+“Med mina marginalanteckningar?”
 
 “Ja.”
 
-“Logga varje steg.”
+Hon lutade sig mot väggen, inte för att hon behövde stöd, sa hon till sig själv, utan för att korridoren plötsligt var för lång. Den gamla kvällen kom tillbaka i bitar: Tomas vid bordet med skjortärmarna uppvikta, hennes blå penna, kaffet som smakat bränt, regnet mot fönstret, hans fråga om något kunde vara både tolererbart och fel. Hon hade skrivit mer än precision och lydnad. Hon mindes inte allt. Det var det värsta. Man trodde att det förflutna var säkert bara för att det hade hänt, men ibland låg det kvar i en gammal fil och väntade på att bli metadata.
 
-Noor såg på honom.
+“Vad stod det?” frågade hon.
 
-“Oskar, jag vet hur man gör.”
+“Du minns inte?”
 
-“Jag behöver säga det ändå.”
+“Jag minns en del.”
 
-“Jag märker det.”
+“Det gjorde inte jag heller,” sa han. “Inte exakt.”
 
-Hon började arbeta.
+“Men någon gör det.”
 
-På skärmen byggdes en ny graf upp. Noder. Namn. Roller. System. Flöden. Dokument. Behörighetsgrupper.
+Han nickade.
 
-Lina stod bakom henne och såg hur Fyrskeppet blev en karta över sig själv.
+Det var då hon förstod varför han var rädd för datorn. Inte för att den kunde fria honom, även om den kanske kunde det. Utan för att den kunde dra in henne. Om originalbilagan fanns där med hennes marginalanteckningar, om hennes namn fanns på ett arbetsmaterial som senare hade förvandlats till beslutssanning, då kunde Lars eller någon högre upp göra henne till del av samma kedja. Inte som huvudansvarig. Det behövdes inte. Det räckte att göra henne osäker. Det räckte att göra hennes invändningar partiska, hennes frågor självskyddande, hennes försvar av Tomas till ett försvar av sig själv.
 
-Lina.
-Marcus.
-Camilla.
-Noor.
+“Det var därför du ville att jag skulle låta bli,” sa hon.
 
-Sedan dök Jens namn upp.
+“Delvis.”
 
-Han stelnade.
+“Delvis?”
 
-“Varför är jag där?”
+“Det finns mer.”
 
-Noor zoomade in.
+Hon väntade, men han sa inget.
 
-“Du står som tekniskt ansvarig i beslutet om workarounden.”
+“Du får inte göra så där,” sa hon lågt.
 
-“Det visste vi.”
+Han såg på henne.
 
-“Men här finns en annan koppling.”
+“Du får inte säga att det finns mer och sedan stå tyst som om tystnaden är en tjänst.”
 
-En linje drogs från Jens till A-03.
+Något rörde sig i hans ansikte. Sorg, kanske. Eller skam. Med Tomas var känslor ofta så hårt vikta att man bara såg kanten.
 
-Jens ansikte tappade färg.
+“Jag försöker hindra att du blir indragen.”
+
+“Jag är redan indragen. Någon skickar meddelanden till mig under ett möte, mitt namn dyker upp i fritextsvar, en saknad bilaga innehåller mina gamla kommentarer och min chef använder din existens som argument mot min saklighet. Jag skulle säga att indragen redan har passerat.”
+
+Han drog handen över ansiktet. Det var en ovanligt oordnad gest för honom.
+
+“Jag visste inte att de skulle använda fritexten.”
+
+“Vilka de?”
+
+“Jag vet inte.”
+
+“Det är inte ett svar.”
+
+“Det är det enda sanna jag har.”
+
+Hon ville fråga om han ljög. Hon ville fråga om han fortfarande litade på henne. Hon ville fråga varför han hade dragit sig undan för två år sedan, varför han hade slutat skicka utkast till henne, varför han hade börjat svara på hennes frågor med hela enheten i kopia och inget av det som egentligen betydde något mellan raderna. Men korridoren var inte en plats för sådana frågor, och just därför kanske den var den enda plats där de kunde ställas.
+
+Hon ställde den fråga som gick att överleva.
+
+“Skrev du fritextsvaren?”
 
 “Nej.”
 
-Lina kände hur hennes mage drog ihop sig.
+“Skrev du något av dem?”
 
-“Vad?”
+“Nej.”
 
-Noor läste.
+“Varför står det då saker bara du och jag borde känna igen?”
 
-“Du godkände fallback-konfigurationen.”
+“För att någon har läst underlagen.”
 
-“För två år sedan.”
+“Din dator.”
 
-“Det står att den var tidsbegränsad.”
+“Eller någon kopia.”
+
+“Men datorn är borta.”
 
 “Ja.”
 
-“Det står också att uppföljningsansvarig var...”
+“Och Lars bad dig lämna den.”
 
-Hon tystnade.
+“Han bad mig säkerställa att den kunde granskas utan att material spreds vidare.”
 
-Jens viskade:
+“Det är inte samma sak som att lämna den i ett skåp.”
 
-“Säg det.”
+“Nej.”
 
-“Noor Haddad.”
+“Korrigerade du honom?”
 
-Noor såg ut som om någon slagit till henne.
+“Nej.”
 
-“Det kan inte stämma.”
+“Varför inte?”
 
-“Var du ens här då?” frågade Camilla.
+Han såg på henne då, och för en sekund var han nästan den Tomas hon hade känt bäst och sämst på samma gång; den som kunde vara outhärdligt exakt om ett begrepp och fullständigt oförmögen att skydda sig mot en människa som visste vilka ord som fick honom att känna sig ansvarig.
 
-“Noor började förra året,” sa Marcus.
+“För att han sa att du också kunde påverkas.”
 
-Oskar tog över skärmen.
+Karin blev tyst.
 
-“Dokumentet är ändrat.”
+Hon hade trott att ilskan redan nått sin högsta punkt. Det hade den inte. Den steg långsamt, kallare nu, inte som blossande vrede utan som ett beslut som sökte form.
 
-“När?” frågade Lina.
+“Han använde mig för att få dig att lämna datorn.”
 
-Oskar öppnade versionshistoriken.
+Tomas svarade inte.
 
-“10:18 idag.”
+“Och du lät honom.”
 
-Det var efter att intrånget startat.
+“Ja.”
 
-“Av vem?” frågade Noor.
+Det var ärligheten som gjorde ont. Inte bortförklaringen, inte försvarstalet, utan det raka, nakna ja:et. Han hade låtit Lars använda henne. Kanske för att skydda henne, kanske för att han trodde att han fortfarande hade rätt att göra sådana val åt människor genom att bära konsekvenserna själv, kanske för att Tomas Ryd hellre blev skyldig än hjälplös.
 
-Oskar behövde bara klicka en gång.
+“Du är en idiot,” sa hon.
 
-Ändrad av: oskar.lind.
+Han såg nästan lättad ut. “Det är en rimlig bedömning.”
 
-Oskar blev helt stilla.
+“Nej. Du får inte hålla med som om det är en granskningskommentar.”
 
-Ingen skämtade.
+Då log han. Bara en skugga, men den fanns där, och den var så olämplig att hon nästan log tillbaka. Nästan. Det var farligt hur lite som krävdes för att minnet av ömhet skulle bete sig som bevis.
 
-Ingen sa att det inte kunde stämma.
+“Karin,” sa han.
 
-De hade redan använt upp den frasen.
+Hon skakade på huvudet. “Nej. Nu lyssnar du. Om det finns en originalversion på din dator, om den visar att du varnade för riskerna, då är den inte bara ett hot. Den är också bevis.”
 
-På skärmen fortsatte AI-grafen att rita samband.
+“Den är inte längre hos mig.”
 
-Lina såg sitt namn, Marcus, Noor, Camilla, Jens, Oskar.
+“Vem har åtkomst till skåpen?”
 
-En efter en.
+“Fastighetsservice. Säkerhet. Chef med särskild begäran.”
 
-Alla i rummet.
+“Lars?”
 
-Sedan markerade verktyget en nod som låg i mitten av allt.
+“Jag vet inte.”
 
-Inte en person.
+“Det vet du visst inte,” sa hon, och hörde bitterheten i sin egen röst. “Du vet väldigt mycket exakt tills det gäller någon med mandat.”
 
-Inte ett konto.
+Han tog emot det utan att röra sig. Det gjorde henne argare, och ledsnare, och hon hade inte tid med något av det.
 
-Ett dokument.
+“Finns det backup?” frågade hon.
 
-KVALITETSSAKRING_DECENTRALISERAD_ARKITEKTUR_SLUTVERSION.pptx
+“Automatisk synk till OneDrive för vissa mappar.”
 
-Noor klickade på den.
+“För riskbilagan?”
 
-En varning dök upp.
+“Nej. Den låg i en lokal arbetsmapp.”
 
-Filen är ändrad externt.
+“Naturligtvis gjorde den det.”
 
-Lina hann bara läsa första raden i den dolda anteckningsvyn innan skärmen slocknade.
+“Jag vet.”
 
-Projektorn tändes av sig själv.
+“Mejl?”
 
-Den här gången visade den inte ett tullärende.
+“Jag skickade den till dig.”
 
-Den visade dagens agenda.
+“Det mejlet borde finnas.”
 
-Och längst ner, under punkten “Demo av möjligheter med AI”, hade någon lagt till en ny rad:
+“Om det inte är gallrat.”
 
-11:00 – Beslutspunkt: Aktivera automatisk prioriterad frigivning.
+“Det är två år sedan, Tomas.”
 
-Klockan på väggen visade 10:58.
+“Jag vet.”
+
+“Sluta säga att du vet.”
+
+Han drog ett andetag som om han skulle säga just det igen, hejdade sig och nickade.
+
+Från konferensrummet hördes plötsligt Miras röst, dämpad men omisskännlig genom glaset. Hon pratade fort, händerna rörde sig, Jamal stod bredvid med kaffemuggen i ett grepp som antydde att han glömt vad den var till för. Lars stod en bit bort, fortfarande med telefonen vid örat. Helena satt på sin plats, lugn som ett beslut som ännu inte nått diariet. Eva-Lotta stod vid dörren och såg rakt mot korridoren.
+
+Mot Karin.
+
+Sedan höjde Eva-Lotta sitt block en aning.
+
+Inte mycket. Bara tillräckligt för att Karin skulle se en rad skriven med stora, tydliga bokstäver.
+
+**KLOCKAN 11.13**
+
+Under det, ett ord:
+
+**SKÅPLOGG**
+
+Karin stirrade.
+
+Eva-Lotta sänkte blocket igen och gick mot kaffet som om hon bara hade blivit törstig.
+
+“Vad är det?” frågade Tomas.
+
+“Eva-Lotta,” sa Karin. “Hon vet hur vi hittar vem som öppnade ditt skåp.”
+
+Tomas vände sig mot konferensrummet.
+
+I samma ögonblick kom Lars ut genom dörren.
+
+Han hade lagt undan telefonen. Ansiktet var återställt, milt, chefsmässigt. Det var nästan värre efter att hon nu visste vad den sortens mildhet kunde göra.
+
+“Där är ni,” sa han. “Vi behöver samla gruppen igen.”
+
+“Pausen skulle vara tio minuter,” sa Karin.
+
+“Den blev kortare.”
+
+“Det brukar inte vara så noga annars.”
+
+“Nu är det det.” Han såg på Tomas. “Avdelningsledningen vill ha ett preliminärt klargörande före tolv. Vi behöver avsluta den här delen konstruktivt.”
+
+“Konstruktivt,” sa Karin.
+
+Lars lät blicken vila på henne. “Ja. Och sakligt.”
+
+Där var ordet igen. Sakligt. Som om saklighet var något man kunde använda för att tömma ett rum på risk, relationer och makt. Som om hennes ilska gjorde fakta mindre faktiska. Som om Tomas rädsla var en störning i processen och inte den enda fullt begripliga informationen de hade fått på hela morgonen.
+
+Tomas tog ett steg fram. “Lars.”
+
+Det var första gången under förmiddagen han sa chefens namn med något som liknade motstånd.
+
+Lars såg på honom med en snabb, nästan osynlig skärpa. “Ja?”
+
+“Min dator.”
+
+Karin hann se det. Den lilla förskjutningen i Lars ansikte. Inte förvåning. Inte ens oro. Snarare irritation över att en punkt kommit upp i fel ordning.
+
+“Det tar vi separat,” sa Lars.
+
+“Nej,” sa Karin.
+
+Lars log utan värme. “Jag talade med Tomas.”
+
+“Och jag hörde svaret.”
+
+“Du hör mycket i dag.”
+
+“Ja,” sa Karin. “Det börjar bli ett problem för dig.”
+
+Tomas tittade på henne, och den här gången var varningen borta. Kvar fanns något annat, något som nästan kunde vara förundran.
+
+Lars svarade inte direkt. Han såg förbi henne, mot konferensrummet, där de andra nu vände sig åt deras håll. De stod synliga genom glaset allihop, som vittnen i ett akvarium. Mira hade slutat prata. Jamal höll fortfarande i sin kaffemugg. Helena hade lyft huvudet. Eva-Lotta stod nära dörren med blocket mot bröstet.
+
+“Vi går in,” sa Lars.
+
+“För att protokollföra datorn?” frågade Eva-Lotta från dörröppningen.
+
+Hon hade inte höjt rösten. Det behövdes inte. Hon hade bara placerat meningen där ingen kunde gå runt den.
+
+Lars vände sig mot henne. “Eva-Lotta.”
+
+“Ja.”
+
+“Det här är inte hjälpsamt.”
+
+“Det beror på för vem.”
+
+Tystnaden efteråt var så ren att till och med kopieringsmaskinen verkade skämmas och slutade pipa.
+
+Helena reste sig inne i rummet. “Om det finns en saknad tjänstedator med relevant arbetsmaterial kopplat till en bestridd bilaga behöver det hanteras som en informationssäkerhetsfråga.”
+
+Jamal nickade, alltför ivrigt. “Och som versionsfråga.”
+
+Mira lade till: “Och som varför-i-helvete-sa-ingen-det-tidigare-fråga.”
+
+“Mira,” sa Lars.
+
+“Jag formulerar om till protokollet sen.”
+
+Karin borde ha känt lättnad. Nu var datorn inte längre bara ett meddelande på hennes telefon eller en rädsla i Tomas ansikte. Den var i rummet, eller nästan i rummet, synlig nog att inte försvinna utan att lämna spår. Men lättnaden kom inte. För samtidigt som frågan flyttade ut i det öppna såg hon Lars göra något med handen.
+
+Han låste upp sin telefon.
+
+Bara en kort rörelse, diskret, nästan oskyldig. Tummen över skärmen, ett tryck, kanske bara en vana. Men Helena såg det också. Och Eva-Lotta. Och Tomas.
+
+En sekund senare vibrerade Karins telefon igen.
+
+Hon tog upp den långsamt.
+
+Okänt nummer.
+
+**Skåploggen är redan beställd. Inte av Lars.**
+
+Karin läste meddelandet två gånger.
+
+Sedan såg hon upp mot Eva-Lotta, men Eva-Lotta såg lika förvånad ut som hon själv kände sig.
+
+Tomas följde hennes blick. “Vad står det?”
+
+Hon skulle just svara när dörren längst bort i korridoren öppnades och en man i mörkblå tröja med passerkort från internservice kom in med en surfplatta i handen. Han såg först mot rummets nummer, sedan mot Lars, sedan mot Tomas.
+
+“Ursäkta,” sa han. “Jag söker Tomas Ryd.”
+
+Tomas blev alldeles stilla.
+
+Mannen tittade ned på sin surfplatta. “Det gäller uttaget ur skåp C-14 i morse. Jag behöver en bekräftelse på att det skedde på din begäran.”
+
+“Du försöker fortfarande skydda mig från saker genom att inte säga dem,” sa Karin.
+
+Tomas såg på henne som om meningen först behövde granskas för rättslig betydelse. “Jag försöker skydda fakta från att bli personliga.”
+
+“Det är en imponerande dålig formulering.”
+
+“Jag vet.”
+
+“Nej,” sa hon. “Det gör du inte. Du tror att om du bär skulden tillräckligt prydligt så kommer resten av oss få gå därifrån med rena händer.”
+
+Han svarade inte, och just därför visste hon att hon träffat rätt.
+
+“Det fungerade aldrig mellan oss heller,” sa hon lägre.
+
+Tomas andades ut, nästan ljudlöst. “Nej.”
+
+Det var inte en försoning. Det var knappt ens ett samtal. Men det var första gången på flera år som ingen av dem låtsades att problemet bara var en formulering.
+
+---
+
+## Kapitelnotering
+
+- Viktiga händelser:
+  - Lars utlyser paus, men pausen blir ett informellt beslutsrum snarare än återhämtning.
+  - Karin och Tomas går ut i korridoren och talar vid kopieringsrummet.
+  - Tomas bekräftar att hans dator är borta och att den låg i hans skåp över natten.
+  - Tomas berättar att Lars bad honom lämna datorn för granskning, med hänvisning till en säkerhetsfråga.
+  - Datorn kan innehålla en lokal kopia av originalversionen av Bilaga 7 med Karins gamla marginalanteckningar.
+  - Tomas medger att Lars använde risken för att Karin skulle påverkas för att få honom att lämna datorn.
+  - Eva-Lotta signalerar till Karin att skåplogg kan vara nyckelspår.
+  - Lars avbryter pausen och säger att avdelningsledningen vill ha preliminärt klargörande före tolv.
+  - Frågan om Tomas dator förs in i det öppna.
+  - Karin får ett nytt anonymt meddelande: “Skåploggen är redan beställd. Inte av Lars.”
+  - En person från internservice kommer in och söker Tomas för bekräftelse på uttag ur skåp C-14.
+- Nya kontinuitetspunkter:
+  - Tomas skåp är C-14.
+  - Datorn låg i Tomas skåp och försvann före eller under morgonen.
+  - Lars bad Tomas lämna datorn för granskning, enligt Tomas.
+  - Datorn kan innehålla original-Bilaga 7 med Karins marginalanteckningar.
+  - Det finns skåplogg som kan visa vem som öppnade skåpet.
+  - Någon har redan beställt skåploggen, men enligt anonymt meddelande inte Lars.
+  - Internservice söker Tomas för att bekräfta ett uttag ur skåpet som påstås ha skett på hans begäran.
+- Relationsförändringar:
+  - Karin och Tomas talar mer öppet, men gamla sår och missförstånd blir tydligare.
+  - Karin blir arg över att Tomas lät Lars använda henne som skäl att lämna datorn.
+  - Tomas försöker fortfarande skydda Karin men börjar lämna konkreta uppgifter.
+  - Eva-Lotta agerar tydligare som taktisk allierad genom att peka Karin mot skåploggen.
+  - Lars pressas när datorfrågan blir synlig.
+  - Mira och Jamal börjar stötta att datorfrågan är relevant och inte kan parkeras.
+- Öppna frågor:
+  - Vem beställde skåploggen?
+  - Vem tog ut datorn ur skåp C-14?
+  - Varför står uttaget som om det skedde på Tomas begäran?
+  - Finns original-Bilaga 7 kvar på datorn?
+  - Vilka av Karins marginalanteckningar finns i originalversionen?
+  - Varför vill avdelningsledningen ha preliminärt klargörande före tolv?
+  - Vem skickar fortfarande de anonyma meddelandena?
