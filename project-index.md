@@ -6,9 +6,9 @@
 - Undertitel: Protokollet var redan skrivet
 - Författare: Erland Lindmark
 - Senast uppdaterad: 2026-08-15
-- Nuvarande fas: GitHub Actions-publicering – PDF-fix revision 7
+- Nuvarande fas: GitHub Actions-publicering – PDF-blanksidefix revision 8
 - Senast godkända kapitel: Inget
-- Nästa kapitel: Kör preview-workflow på GitHub igen
+- Nästa kapitel: Kör preview-workflow på GitHub igen och kontrollera PDF-starten
 - Omslagsbild: Skapad (`omslag/omslag-kvartalsmotet.png`)
 
 ## Kapitelinventering

@@ -5,8 +5,8 @@
     "author": "Erland Lindmark",
     "language": "sv-SE"
   },
-  "revision": 7,
-  "revision_label": "GitHub Actions PDF UTF-8 fix",
+  "revision": 8,
+  "revision_label": "GitHub Actions PDF blank-page fix",
   "updated": "2026-08-15",
   "chapters": {
     "count": 18,

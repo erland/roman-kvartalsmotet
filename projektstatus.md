@@ -11,16 +11,16 @@
 
 ## Nuvarande fas
 
-GitHub Actions-publicering uppdaterad: PDF-byggets Lua-filter och PDF-template är korrigerade för preview/release.
+GitHub Actions-publicering uppdaterad: PDF-templaten är korrigerad så preview/release inte skapar tom sida före omslaget eller extra blank sida före innehållsförteckningen.
 
 ## Senast godkända kapitel eller del
 
 - Senast godkända: Inget kapitel är formellt godkänt ännu.
-- Senast ändrad: GitHub Actions PDF-bygge korrigerat efter preview-fel.
+- Senast ändrad: PDF-template korrigerad för att ta bort tomma sidor i GitHub Actions-byggd PDF.
 
 ## Nästa rekommenderade steg
 
-Kör GitHub Actions `Build preview` igen. Preview ska bygga både EPUB och PDF i artifactet `kvartalsmotet-preview`.
+Kör GitHub Actions `Build preview` igen. PDF-resultatet ska börja med omslaget på sida 1, titelsidan på sida 2 och innehållsförteckningen på sida 3.
 
 ## Viktiga öppna beslut
 

@@ -48,3 +48,4 @@
 | 2026-05-21 | Karaktärs- och relationsrevision v4 | Förtydligade Karin/Tomas, Miras ansvar och Lars ansvarskurva i utvalda kapitel. |
 | 2026-05-21 | Slutputs och konsekvenskontroll v5 | Kapitel 1–18 kontrollerade; kapitelnoteringar och statusfiler synkade inför export/helhetsläsning. |
 | 2026-08-15 | GitHub Actions-publicering införd | Lade till `.github`, `scripts`, `publishing` och `project-manifest.json` för validering, preview-bygge och release av EPUB/PDF. |
+| 2026-08-15 | GitHub Actions PDF-blankrader fixade | `pdf-template.tex` uppdaterad så PDF-preview inte får tom sida före omslag eller extra blank före innehållsförteckning. Revision 8. |
