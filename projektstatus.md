@@ -105,3 +105,11 @@ Genomfört:
 - Revisionskommentarer som råkat ligga i kapitelnoteringarnas öppna frågor har rensats bort.
 - Projektets statusfiler pekar nu på slutputsad version 5.
 - Inga kapitel är formellt godkända ännu; de är slutputsade utkast.
+
+
+## GitHub Actions-publicering
+
+- Status: Införd enligt anpassat Romanskaparen-koncept.
+- `.github/` ligger i projektroten, på samma nivå som `README.md`.
+- Preview-workflow bygger EPUB och PDF som ett gemensamt artifact.
+- Release-workflow publicerar EPUB och PDF som separata release-assets vid `v*`-taggar.

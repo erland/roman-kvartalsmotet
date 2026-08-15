@@ -54,3 +54,13 @@ Språk- och röstreviderad version 3 skapad 2026-05-21. Kapitel 1–18 finns som
 ## Senaste projektläge 2026-05-21
 
 Projektet är uppdaterat till karaktärs- och relationsreviderad version 4. Revisionen fördjupar Karin/Tomas-relationen, Miras ansvarsbåge och Lars namngivna ansvarstagande.
+
+## GitHub Actions-publicering
+
+Projektet innehåller nu ett anpassat CI-/publiceringsupplägg:
+
+- `.github/workflows/01-validate.yml` validerar projektstruktur, kapitel, metadata och omslag.
+- `.github/workflows/02-build-preview.yml` bygger EPUB och PDF manuellt som ett gemensamt preview-artifact.
+- `.github/workflows/03-release.yml` bygger EPUB och PDF vid taggar enligt `v*` och publicerar dem som GitHub Release-assets.
+- `scripts/build_book.py` bygger EPUB/PDF från `kapitel/kapitel-XX.md` i numerisk ordning.
+- `publishing/metadata.yaml` innehåller exportmetadata för titel, undertitel, författare, språk och omslag.

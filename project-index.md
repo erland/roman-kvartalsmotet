@@ -72,3 +72,16 @@
 - Typ: Slutputs och konsekvenskontroll v5
 - Berörda kapitel: 1–18 samt statusfiler
 - Resultat: Synkad efter slutputs och konsekvenskontroll v5
+
+
+## GitHub Actions-publicering
+
+| Fil/katalog | Syfte | Status |
+|---|---|---|
+| `.github/workflows/01-validate.yml` | Snabb projektvalidering vid PR/push | OK |
+| `.github/workflows/02-build-preview.yml` | Manuellt previewbygge av EPUB/PDF | OK |
+| `.github/workflows/03-release.yml` | Releasebygge vid `v*`-taggar | OK |
+| `scripts/build_book.py` | Bygger EPUB och PDF från kanoniska kapitel | OK |
+| `scripts/validate_project.py` | Validerar kapitel, metadata, omslag och länkar | OK |
+| `publishing/` | Metadata och layoutfiler för EPUB/PDF | OK |
+| `project-manifest.json` | Maskinläsbar projekt- och publiceringsmetadata | OK |
