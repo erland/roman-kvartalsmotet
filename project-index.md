@@ -5,10 +5,10 @@
 - Titel: Kvartalsmötet
 - Undertitel: Protokollet var redan skrivet
 - Författare: Erland Lindmark
-- Senast uppdaterad: 2026-05-21
-- Nuvarande fas: Kapitelutkast – slutputsad och konsekvenskontrollerad version 5
+- Senast uppdaterad: 2026-08-15
+- Nuvarande fas: GitHub Actions-publicering – PDF-fix revision 7
 - Senast godkända kapitel: Inget
-- Nästa kapitel: Export eller användarens helhetsläsning/godkännande
+- Nästa kapitel: Kör preview-workflow på GitHub igen
 - Omslagsbild: Skapad (`omslag/omslag-kvartalsmotet.png`)
 
 ## Kapitelinventering
@@ -68,10 +68,10 @@
 
 ## Senaste revision
 
-- Datum: 2026-05-21
-- Typ: Slutputs och konsekvenskontroll v5
-- Berörda kapitel: 1–18 samt statusfiler
-- Resultat: Synkad efter slutputs och konsekvenskontroll v5
+- Datum: 2026-08-15
+- Typ: GitHub Actions PDF-fix revision 7
+- Berörda filer: `publishing/pdf-filter.lua`, `publishing/pdf-template.tex`, `project-manifest.json`, status-/loggfiler
+- Resultat: Preview/PDF-bygge korrigerat och lokalt testat
 
 
 ## GitHub Actions-publicering

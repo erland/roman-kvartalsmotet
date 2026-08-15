@@ -37,6 +37,11 @@ $endif$
 \usepackage{ragged2e}
 \usepackage{xcolor}
 
+% Pandoc använder \tightlist för kompakta listor.
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+
 \setstretch{1.28}
 \setlength{\parindent}{0pt}
 \setlength{\parskip}{0.55em plus 0.08em minus 0.04em}
