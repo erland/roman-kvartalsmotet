@@ -1,49 +1,87 @@
 # Project Index
 
 ## Projekt
+
 - Titel: Kvartalsmötet
-- Undertitel: Arbetsplatsträff på IT-strategi
+- Undertitel: Protokollet var redan skrivet
 - Författare: Erland Lindmark
-- Nuvarande fas: Revision
-- Senast godkända kapitel: Inga
-- Nästa kapitel: Revision
-- Omslagsbild: Skapad
+- Senast uppdaterad: 2026-05-21
+- Nuvarande fas: Kapitelutkast – slutputsad och konsekvenskontrollerad version 5
+- Senast godkända kapitel: Inget
+- Nästa kapitel: Export eller användarens helhetsläsning/godkännande
+- Omslagsbild: Skapad (`omslag/omslag-kvartalsmotet.png`)
 
 ## Kapitelinventering
 
 | Kapitel | Fil | Titel | Status |
 |---|---|---|---|
-| 1 | kapitel/kapitel-01.md | Kvartalsmötet | Första utkast skrivet |
-| 2 | kapitel/kapitel-02.md | Bara en bugg | Första utkast skrivet |
-| 3 | kapitel/kapitel-03.md | Förankring | Första utkast skrivet |
-| 4 | kapitel/kapitel-04.md | Workshop | Första utkast skrivet |
-| 5 | kapitel/kapitel-05.md | Manuell hantering | Första utkast skrivet |
-| 6 | kapitel/kapitel-06.md | Tillfälliga behörigheter | Första utkast skrivet |
-| 7 | kapitel/kapitel-07.md | AI-rummet | Första utkast skrivet |
-| 8 | kapitel/kapitel-08.md | Incidentforumet | Första utkast skrivet |
-| 9 | kapitel/kapitel-09.md | Segmentering | Första utkast skrivet |
-| 10 | kapitel/kapitel-10.md | Teknikskuld | Första utkast skrivet |
-| 11 | kapitel/kapitel-11.md | Halvdagens sista timme | Första utkast skrivet |
-| 12 | kapitel/kapitel-12.md | Intrånget | Första utkast skrivet |
-| 13 | kapitel/kapitel-13.md | Beslutet | Första utkast skrivet |
-| 14 | kapitel/kapitel-14.md | Eftermiddag | Första utkast skrivet |
+| 1 | kapitel/kapitel-01.md | Kaffe före förändring | Utkast slutputsat v5 |
+| 2 | kapitel/kapitel-02.md | Ett kvitto på engagemang | Utkast slutputsat v5 |
+| 3 | kapitel/kapitel-03.md | Fritext | Utkast slutputsat v5 |
+| 4 | kapitel/kapitel-04.md | Bilaga 7 | Utkast slutputsat v5 |
+| 5 | kapitel/kapitel-05.md | Inte i det här forumet | Utkast slutputsat v5 |
+| 6 | kapitel/kapitel-06.md | Kvalitetssäkring | Utkast slutputsat v5 |
+| 7 | kapitel/kapitel-07.md | Pausen | Utkast slutputsat v5 |
+| 8 | kapitel/kapitel-08.md | Fredagsbeslutet | Utkast slutputsat v5 |
+| 9 | kapitel/kapitel-09.md | Rummet utan protokoll | Utkast slutputsat v5 |
+| 10 | kapitel/kapitel-10.md | Framtidspunkten | Utkast slutputsat v5 |
+| 11 | kapitel/kapitel-11.md | Arbetsmaterial | Utkast slutputsat v5 |
+| 12 | kapitel/kapitel-12.md | Den som godkänner tystnad | Utkast slutputsat v5 |
+| 13 | kapitel/kapitel-13.md | Styrgruppen | Utkast slutputsat v5 |
+| 14 | kapitel/kapitel-14.md | Tolv minuter | Utkast slutputsat v5 |
+| 15 | kapitel/kapitel-15.md | Utanför glaset | Utkast slutputsat v5 |
+| 16 | kapitel/kapitel-16.md | Den färdiga sanningen | Utkast slutputsat v5 |
+| 17 | kapitel/kapitel-17.md | Karin bryter mötet | Utkast slutputsat v5 |
+| 18 | kapitel/kapitel-18.md | Protokollet | Utkast slutputsat v5 |
+
+## Kanoniska projektfiler
+
+| Fil | Syfte | Status |
+|---|---|---|
+| README.md | Start och arbetsflöde | OK |
+| roman-bibel.md | Centrala fakta | OK |
+| synopsis.md | Handlingsöversikt | OK |
+| kapitelplan.md | Kapitelplan och status | OK |
+| stilguide.md | Språk, ton och perspektiv | OK |
+| tidslinje.md | Händelser i romanen | OK |
+| kontinuitetsanteckningar.md | Fakta och öppna trådar | OK |
+| revisionsonskemal.md | Planerade förbättringar | OK |
+| arbetslogg.md | Projektändringar | OK |
+| projektstatus.md | Senaste status och nästa steg | OK |
+| karaktarer/huvudperson.md | Huvudperson | OK |
+| karaktarer/antagonist.md | Motkraft | OK |
+| karaktarer/bifigurer.md | Bifigurer | OK |
+| exports/README.md | Exportinformation | OK |
+| exports/exportlogg.md | Exporthistorik | OK |
+| omslag/omslag-kvartalsmotet.png | Omslagsbild/framsida | OK |
+| omslag/README.md | Omslagsmetadata | OK |
 
 ## Synkkontroll
-- Kapitel i kapitel/: 14
-- Senaste kapitel i kapitelplan.md: Kapitel 14
-- Senaste kapitel i projektstatus.md: Kapitel 14
-- Senaste kapitel i arbetslogg.md: Kapitel 14
-- Resultat: Synkad efter återställning av kapitel 1–3
 
-## Omslag
-- Fil: `omslag/kvartalsmotet-omslag.png`
-- Status: Skapad
+- Kapitel i `kapitel/`: 18
+- Senaste kapitel i `kapitelplan.md`: Kapitel 18
+- Senaste kapitel i `projektstatus.md`: Kapitel 18
+- Senaste kapitel i `arbetslogg.md`: Kapitel 18
+- Senaste export: Ingen
+- Resultat: Synkad efter slutputs och konsekvenskontroll v5
 
-## Revisionsstatus
-- Revision steg 1 färdigställd för kapitel 1–4
 
-- Revision steg 2 färdigställd för kapitel 7–13
+## Senaste revision
 
-- Revision steg 3 färdigställd för kapitel 14
+- Datum: 2026-05-21
+- Typ: Slutputs och konsekvenskontroll v5
+- Berörda kapitel: 1–18 samt statusfiler
+- Resultat: Synkad efter slutputs och konsekvenskontroll v5
 
-- Manus bedöms redo för export och testläsning
+
+## GitHub Actions-publicering
+
+| Fil/katalog | Syfte | Status |
+|---|---|---|
+| `.github/workflows/01-validate.yml` | Snabb projektvalidering vid PR/push | OK |
+| `.github/workflows/02-build-preview.yml` | Manuellt previewbygge av EPUB/PDF | OK |
+| `.github/workflows/03-release.yml` | Releasebygge vid `v*`-taggar | OK |
+| `scripts/build_book.py` | Bygger EPUB och PDF från kanoniska kapitel | OK |
+| `scripts/validate_project.py` | Validerar kapitel, metadata, omslag och länkar | OK |
+| `publishing/` | Metadata och layoutfiler för EPUB/PDF | OK |
+| `project-manifest.json` | Maskinläsbar projekt- och publiceringsmetadata | OK |

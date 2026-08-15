@@ -1,0 +1,24 @@
+{
+  "project": {
+    "title": "Kvartalsmötet",
+    "subtitle": "Protokollet var redan skrivet",
+    "author": "Erland Lindmark",
+    "language": "sv-SE"
+  },
+  "revision": 6,
+  "revision_label": "GitHub Actions publishing setup",
+  "updated": "2026-08-15",
+  "chapters": {
+    "count": 18,
+    "latest": 18,
+    "pattern": "kapitel/kapitel-XX.md"
+  },
+  "publishing": {
+    "pandoc_version": "3.1.11.1",
+    "formats": [
+      "epub",
+      "pdf"
+    ],
+    "cover_image": "omslag/omslag-kvartalsmotet.png"
+  }
+}
