@@ -26,7 +26,7 @@ Detta är projektarkivet för romanen **Kvartalsmötet – Protokollet var redan
 
 ## Omslagsstatus
 
-Omslagsbild/framsida är önskad men ännu inte skapad.
+Omslagsbild/framsida är skapad och finns i `omslag/omslag-kvartalsmotet.png`.
 
 ## Omslag
 
@@ -77,3 +77,8 @@ Preview-felet `pandoc: Cannot decode byte '\x80': Invalid UTF-8 stream` är åtg
 - `project-manifest.json`
 
 Kör om workflowen **Build preview**. Den ska bygga både `kvartalsmotet.epub` och `kvartalsmotet.pdf` som artifact.
+
+
+## GitHub Actions-status
+
+GitHub Actions-publiceringen är uppdaterad till revision 8. PDF-templaten är justerad så PDF-previewen inte ska få en tom sida före omslaget eller en extra blank sida före innehållsförteckningen. Förväntad PDF-start: sida 1 omslag, sida 2 titelsida, sida 3 innehållsförteckning.

@@ -1,4 +1,4 @@
-\documentclass[11pt,openany]{book}
+\documentclass[11pt,openany,oneside]{book}
 
 \usepackage{fontspec}
 \defaultfontfeatures{Ligatures=TeX}
@@ -36,6 +36,7 @@ $endif$
 \usepackage{tocloft}
 \usepackage{ragged2e}
 \usepackage{xcolor}
+\usepackage{eso-pic}
 
 % Pandoc använder \tightlist för kompakta listor.
 \providecommand{\tightlist}{%
@@ -87,9 +88,8 @@ $endif$
 
 $if(cover-image)$
 \thispagestyle{empty}
-\newgeometry{margin=0pt}
-\noindent\includegraphics[width=\paperwidth,height=\paperheight]{$cover-image$}
-\restoregeometry
+\AddToShipoutPictureBG*{\AtPageLowerLeft{\includegraphics[width=\paperwidth,height=\paperheight]{$cover-image$}}}
+\null
 \clearpage
 $endif$
 
