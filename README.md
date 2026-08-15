@@ -64,3 +64,16 @@ Projektet innehåller nu ett anpassat CI-/publiceringsupplägg:
 - `.github/workflows/03-release.yml` bygger EPUB och PDF vid taggar enligt `v*` och publicerar dem som GitHub Release-assets.
 - `scripts/build_book.py` bygger EPUB/PDF från `kapitel/kapitel-XX.md` i numerisk ordning.
 - `publishing/metadata.yaml` innehåller exportmetadata för titel, undertitel, författare, språk och omslag.
+
+
+## GitHub Actions-fix 2026-08-15
+
+Preview-felet `pandoc: Cannot decode byte '\x80': Invalid UTF-8 stream` är åtgärdat i PDF-steget.
+
+Ändringen ligger i:
+
+- `publishing/pdf-filter.lua`
+- `publishing/pdf-template.tex`
+- `project-manifest.json`
+
+Kör om workflowen **Build preview**. Den ska bygga både `kvartalsmotet.epub` och `kvartalsmotet.pdf` som artifact.

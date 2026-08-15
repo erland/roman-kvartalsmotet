@@ -11,16 +11,16 @@
 
 ## Nuvarande fas
 
-Kapitelutkast, slutputsad och konsekvenskontrollerad version 5.
+GitHub Actions-publicering uppdaterad: PDF-byggets Lua-filter och PDF-template är korrigerade för preview/release.
 
 ## Senast godkända kapitel eller del
 
 - Senast godkända: Inget kapitel är formellt godkänt ännu.
-- Senast ändrad: Slutputs och konsekvenskontroll av kapitel 1–18.
+- Senast ändrad: GitHub Actions PDF-bygge korrigerat efter preview-fel.
 
 ## Nästa rekommenderade steg
 
-Skapa PDF/EPUB-export eller gör användarens helhetsläsning/godkännande av kapitel 1–18.
+Kör GitHub Actions `Build preview` igen. Preview ska bygga både EPUB och PDF i artifactet `kvartalsmotet-preview`.
 
 ## Viktiga öppna beslut
 
@@ -113,3 +113,10 @@ Genomfört:
 - `.github/` ligger i projektroten, på samma nivå som `README.md`.
 - Preview-workflow bygger EPUB och PDF som ett gemensamt artifact.
 - Release-workflow publicerar EPUB och PDF som separata release-assets vid `v*`-taggar.
+
+
+## GitHub Actions-fix 2026-08-15
+
+- Åtgärdat PDF-fel `Cannot decode byte '\\x80'` genom att skriva om `publishing/pdf-filter.lua` så den inte använder UTF-8-tecken inuti Lua-pattern-klasser.
+- Lagt till `\tightlist` i `publishing/pdf-template.tex` för robust Pandoc/PDF-generering.
+- Lokalt test: `scripts/build_book.py --formats epub,pdf` skapar både EPUB och PDF utan fel.

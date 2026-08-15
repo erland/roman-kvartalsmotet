@@ -16,3 +16,16 @@ python3 scripts/build_book.py --output-dir dist
 ```
 
 Kräver Pandoc 3.1.11.1 för reproducerbart bygge. PDF kräver XeLaTeX och TeX Gyre Pagella.
+
+
+## Fix 2026-08-15
+
+PDF-bygget i GitHub Actions kunde tidigare falla med:
+
+```text
+pandoc: Cannot decode byte '\x80': Data.Text.Encoding: Invalid UTF-8 stream
+```
+
+Orsaken var att PDF-Lua-filtret använde ett UTF-8-tecken (`–`) inuti en Lua-pattern-klass. Lua hanterar patterns bytevis, vilket kunde dela tankstrecket och skicka en ogiltig UTF-8-sträng vidare till Pandoc. Filtret använder nu plain string-sökning i stället.
+
+PDF-templaten definierar också `\tightlist`, vilket gör PDF-bygget robustare för Pandoc-listor.

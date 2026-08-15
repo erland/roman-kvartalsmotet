@@ -37,6 +37,8 @@
 | 2026-05-21 | Spänningsrevision v2 genomförd | Vässade kapitelkrokar och hotnivå i kapitel 1, 6 och 10; lade ankarmeningar i kapitel 8, 14 och 15; förstärkte Helenas ambivalenta varningar, Miras kostsamma erkännande och Karins emotionella slutpunkt. |
 | 2026-05-21 | Språk- och röstrevision v3 genomförd | Kapitel 1–18 putsade med fokus på rytm, individuella röster, övergångar och minskad repetition utan ändrad huvudintrig. |
 
+| 2026-08-15 | GitHub Actions PDF-fix | Åtgärdade preview-fel i PDF-bygget: omskrivet Lua-filter för UTF-8-säker kapitelrubriksparsing och tillagd `\\tightlist` i PDF-template. Lokalt EPUB/PDF-bygge testat. |
+
 ## Nästa rekommenderade steg
 
 - Läs igenom den spänningsreviderade versionen av kapitel 1–18.
